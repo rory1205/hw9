@@ -1,0 +1,5830 @@
+{
+    "word_list": [
+        {
+            "id": 1,
+            "word": "abroad",
+            "word_type": "[副]",
+            "meaning": "在國外"
+        },
+        {
+            "id": 2,
+            "word": "across",
+            "word_type": "[介]",
+            "meaning": "橫越;穿過"
+        },
+        {
+            "id": 3,
+            "word": "act",
+            "word_type": "[動][名]",
+            "meaning": "扮演;行動,法案"
+        },
+        {
+            "id": 4,
+            "word": "action",
+            "word_type": "[名]",
+            "meaning": "動作"
+        },
+        {
+            "id": 5,
+            "word": "actor",
+            "word_type": "[名]",
+            "meaning": "男演員"
+        },
+        {
+            "id": 6,
+            "word": "actress",
+            "word_type": "[名]",
+            "meaning": "女演員"
+        },
+        {
+            "id": 7,
+            "word": "ahead",
+            "word_type": "[副]",
+            "meaning": "在前;向前;預先;事前"
+        },
+        {
+            "id": 8,
+            "word": "ant",
+            "word_type": "[名]",
+            "meaning": "螞蟻"
+        },
+        {
+            "id": 9,
+            "word": "attack",
+            "word_type": "[動][名]",
+            "meaning": "進攻;襲擊;攻擊"
+        },
+        {
+            "id": 10,
+            "word": "badminton",
+            "word_type": "[名]",
+            "meaning": "羽毛球"
+        },
+        {
+            "id": 11,
+            "word": "bake",
+            "word_type": "[動]",
+            "meaning": "烘;烤"
+        },
+        {
+            "id": 12,
+            "word": "balcony",
+            "word_type": "[名]",
+            "meaning": "陽臺"
+        },
+        {
+            "id": 13,
+            "word": "barbecue",
+            "word_type": "[名]",
+            "meaning": "烤肉"
+        },
+        {
+            "id": 14,
+            "word": "base",
+            "word_type": "[名]",
+            "meaning": "基;底;基部"
+        },
+        {
+            "id": 15,
+            "word": "bat",
+            "word_type": "[名]",
+            "meaning": "球棒;蝙蝠"
+        },
+        {
+            "id": 16,
+            "word": "bean",
+            "word_type": "[名]",
+            "meaning": "豆莢;豆子"
+        },
+        {
+            "id": 17,
+            "word": "bench",
+            "word_type": "[名]",
+            "meaning": "長凳;長椅"
+        },
+        {
+            "id": 18,
+            "word": "blanket",
+            "word_type": "[名]",
+            "meaning": "毯子"
+        },
+        {
+            "id": 19,
+            "word": "boil",
+            "word_type": "[動]",
+            "meaning": "(水等)沸騰;開;滾"
+        },
+        {
+            "id": 20,
+            "word": "bow",
+            "word_type": "[動][名]",
+            "meaning": "鞠躬;弓"
+        },
+        {
+            "id": 21,
+            "word": "bug",
+            "word_type": "[名]",
+            "meaning": "小蟲"
+        },
+        {
+            "id": 22,
+            "word": "bun",
+            "word_type": "[名]",
+            "meaning": "小圓麵包"
+        },
+        {
+            "id": 23,
+            "word": "butterfly",
+            "word_type": "[名]",
+            "meaning": "蝴蝶"
+        },
+        {
+            "id": 24,
+            "word": "cage",
+            "word_type": "[名]",
+            "meaning": "鳥籠;獸籠"
+        },
+        {
+            "id": 25,
+            "word": "candle",
+            "word_type": "[名]",
+            "meaning": "蠟燭"
+        },
+        {
+            "id": 26,
+            "word": "castle",
+            "word_type": "[名]",
+            "meaning": "城堡"
+        },
+        {
+            "id": 27,
+            "word": "centimeter",
+            "word_type": "[名]",
+            "meaning": "公分"
+        },
+        {
+            "id": 28,
+            "word": "chess",
+            "word_type": "[名]",
+            "meaning": "西洋棋"
+        },
+        {
+            "id": 29,
+            "word": "choose",
+            "word_type": "[動]",
+            "meaning": "選擇;挑選"
+        },
+        {
+            "id": 30,
+            "word": "clap",
+            "word_type": "[動]",
+            "meaning": "拍(手);鼓(掌)"
+        },
+        {
+            "id": 31,
+            "word": "clerk",
+            "word_type": "[名]",
+            "meaning": "店員;辦事員;職員"
+        },
+        {
+            "id": 32,
+            "word": "cola",
+            "word_type": "[名]",
+            "meaning": "可樂"
+        },
+        {
+            "id": 33,
+            "word": "comb",
+            "word_type": "[動][名]",
+            "meaning": "用梳子梳理;梳子"
+        },
+        {
+            "id": 34,
+            "word": "corner",
+            "word_type": "[名]",
+            "meaning": "角落"
+        },
+        {
+            "id": 35,
+            "word": "course",
+            "word_type": "[名]",
+            "meaning": "課程;科目"
+        },
+        {
+            "id": 36,
+            "word": "deal",
+            "word_type": "[動][(+with)][名]",
+            "meaning": "處理;對付;對待[(+with)];交易"
+        },
+        {
+            "id": 37,
+            "word": "dentist",
+            "word_type": "[名]",
+            "meaning": "牙醫"
+        },
+        {
+            "id": 38,
+            "word": "dodge",
+            "word_type": "[名]",
+            "meaning": "ball 躲避球遊戲"
+        },
+        {
+            "id": 39,
+            "word": "dot",
+            "word_type": "[名]",
+            "meaning": "點;小圓點"
+        },
+        {
+            "id": 40,
+            "word": "dragon",
+            "word_type": "[名]",
+            "meaning": "龍"
+        },
+        {
+            "id": 41,
+            "word": "drawer",
+            "word_type": "[名]",
+            "meaning": "抽屜"
+        },
+        {
+            "id": 42,
+            "word": "drum",
+            "word_type": "[名]",
+            "meaning": "鼓"
+        },
+        {
+            "id": 43,
+            "word": "duck",
+            "word_type": "[名]",
+            "meaning": "鴨"
+        },
+        {
+            "id": 44,
+            "word": "dumpling",
+            "word_type": "[名]",
+            "meaning": "餃子"
+        },
+        {
+            "id": 45,
+            "word": "Easter",
+            "word_type": "[名]",
+            "meaning": "復活節"
+        },
+        {
+            "id": 46,
+            "word": "engineer",
+            "word_type": "[名]",
+            "meaning": "工程師"
+        },
+        {
+            "id": 47,
+            "word": "envelope",
+            "word_type": "[名]",
+            "meaning": "信封"
+        },
+        {
+            "id": 48,
+            "word": "fail",
+            "word_type": "[動]",
+            "meaning": "失敗;不及格"
+        },
+        {
+            "id": 49,
+            "word": "far",
+            "word_type": "[形]",
+            "meaning": "遠的"
+        },
+        {
+            "id": 50,
+            "word": "feed",
+            "word_type": "[動]",
+            "meaning": "吃;餵養"
+        },
+        {
+            "id": 51,
+            "word": "fever",
+            "word_type": "[名]",
+            "meaning": "發燒"
+        },
+        {
+            "id": 52,
+            "word": "fight",
+            "word_type": "[動][名]",
+            "meaning": "打架;作戰;打架;戰鬥"
+        },
+        {
+            "id": 53,
+            "word": "flute",
+            "word_type": "[名]",
+            "meaning": "橫笛"
+        },
+        {
+            "id": 54,
+            "word": "fox",
+            "word_type": "[名]",
+            "meaning": "狐狸"
+        },
+        {
+            "id": 55,
+            "word": "French",
+            "word_type": "[名]",
+            "meaning": "fries 薯條"
+        },
+        {
+            "id": 56,
+            "word": "frisbee",
+            "word_type": "[名]",
+            "meaning": "(投擲遊戲用的)飛碟;飛盤"
+        },
+        {
+            "id": 57,
+            "word": "frog",
+            "word_type": "[名]",
+            "meaning": "青蛙"
+        },
+        {
+            "id": 58,
+            "word": "fry",
+            "word_type": "[動][名]",
+            "meaning": "油炸;炸薯條"
+        },
+        {
+            "id": 59,
+            "word": "gate",
+            "word_type": "[名]",
+            "meaning": "柵門;登機門"
+        },
+        {
+            "id": 60,
+            "word": "ghost",
+            "word_type": "[名]",
+            "meaning": "鬼"
+        },
+        {
+            "id": 61,
+            "word": "giant",
+            "word_type": "[形][名]",
+            "meaning": "巨大的;巨人"
+        },
+        {
+            "id": 62,
+            "word": "glasses",
+            "word_type": "[名]",
+            "meaning": "眼鏡"
+        },
+        {
+            "id": 63,
+            "word": "glue",
+            "word_type": "[動][名]",
+            "meaning": "黏住;緊附;膠;膠水"
+        },
+        {
+            "id": 64,
+            "word": "goose",
+            "word_type": "[名]",
+            "meaning": "鵝"
+        },
+        {
+            "id": 65,
+            "word": "gram",
+            "word_type": "[名]",
+            "meaning": "公克"
+        },
+        {
+            "id": 66,
+            "word": "grape",
+            "word_type": "[名]",
+            "meaning": "葡萄"
+        },
+        {
+            "id": 67,
+            "word": "guava",
+            "word_type": "[名]",
+            "meaning": "番石榴"
+        },
+        {
+            "id": 68,
+            "word": "guitar",
+            "word_type": "[名]",
+            "meaning": "吉他"
+        },
+        {
+            "id": 69,
+            "word": "guy",
+            "word_type": "[名]",
+            "meaning": "傢伙;人"
+        },
+        {
+            "id": 70,
+            "word": "gym",
+            "word_type": "[名]",
+            "meaning": "體育館;體育;體操"
+        },
+        {
+            "id": 71,
+            "word": "Halloween",
+            "word_type": "[名]",
+            "meaning": "萬聖節"
+        },
+        {
+            "id": 72,
+            "word": "hang",
+            "word_type": "[動]",
+            "meaning": "把…掛起;吊"
+        },
+        {
+            "id": 73,
+            "word": "hen",
+            "word_type": "[名]",
+            "meaning": "母雞"
+        },
+        {
+            "id": 74,
+            "word": "hey",
+            "word_type": "[感歎詞]",
+            "meaning": "[感歎詞]嗨;喂"
+        },
+        {
+            "id": 75,
+            "word": "hike",
+            "word_type": "[動][名]",
+            "meaning": "徒步旅行;徒步旅行"
+        },
+        {
+            "id": 76,
+            "word": "hippo",
+            "word_type": "[名]",
+            "meaning": "河馬"
+        },
+        {
+            "id": 77,
+            "word": "honey",
+            "word_type": "[名]",
+            "meaning": "蜂蜜;心愛的人"
+        },
+        {
+            "id": 78,
+            "word": "hop",
+            "word_type": "[動]",
+            "meaning": "單足跳"
+        },
+        {
+            "id": 79,
+            "word": "housewife",
+            "word_type": "[名]",
+            "meaning": "家庭主婦"
+        },
+        {
+            "id": 80,
+            "word": "hunt",
+            "word_type": "[動]",
+            "meaning": "追獵"
+        },
+        {
+            "id": 81,
+            "word": "inch",
+            "word_type": "[名]",
+            "meaning": "英吋"
+        },
+        {
+            "id": 82,
+            "word": "insect",
+            "word_type": "[名]",
+            "meaning": "昆蟲"
+        },
+        {
+            "id": 83,
+            "word": "interview",
+            "word_type": "[動][名]",
+            "meaning": "面談;採訪;面談;採訪"
+        },
+        {
+            "id": 84,
+            "word": "invite",
+            "word_type": "[動]",
+            "meaning": "邀請"
+        },
+        {
+            "id": 85,
+            "word": "kangaroo",
+            "word_type": "[名]",
+            "meaning": "袋鼠"
+        },
+        {
+            "id": 86,
+            "word": "koala",
+            "word_type": "[名]",
+            "meaning": "澳洲產無尾熊"
+        },
+        {
+            "id": 87,
+            "word": "lantern",
+            "word_type": "[名]",
+            "meaning": "燈籠"
+        },
+        {
+            "id": 88,
+            "word": "lawyer",
+            "word_type": "[名]",
+            "meaning": "律師"
+        },
+        {
+            "id": 89,
+            "word": "lovely",
+            "word_type": "[形]",
+            "meaning": "動人的"
+        },
+        {
+            "id": 90,
+            "word": "mad",
+            "word_type": "[形]",
+            "meaning": "發火;發瘋;發狂的"
+        },
+        {
+            "id": 91,
+            "word": "marker",
+            "word_type": "[名]",
+            "meaning": "標誌;白板筆;馬克筆"
+        },
+        {
+            "id": 92,
+            "word": "mask",
+            "word_type": "[名]",
+            "meaning": "面具"
+        },
+        {
+            "id": 93,
+            "word": "mat",
+            "word_type": "[名]",
+            "meaning": "蓆子;墊子"
+        },
+        {
+            "id": 94,
+            "word": "mop",
+            "word_type": "[動][名]",
+            "meaning": "拖洗;擦去;拖把"
+        },
+        {
+            "id": 95,
+            "word": "MRT",
+            "word_type": "[縮]",
+            "meaning": "大眾捷運系統"
+        },
+        {
+            "id": 96,
+            "word": "mud",
+            "word_type": "[名]",
+            "meaning": "泥巴"
+        },
+        {
+            "id": 97,
+            "word": "nail",
+            "word_type": "[名]",
+            "meaning": "釘子;指甲"
+        },
+        {
+            "id": 98,
+            "word": "nature",
+            "word_type": "[名]",
+            "meaning": "自然"
+        },
+        {
+            "id": 99,
+            "word": "neighbor",
+            "word_type": "[名]",
+            "meaning": "鄰居"
+        },
+        {
+            "id": 100,
+            "word": "newspaper",
+            "word_type": "[名]",
+            "meaning": "報紙"
+        },
+        {
+            "id": 101,
+            "word": "note",
+            "word_type": "[動][名]",
+            "meaning": "注意;記下;筆記;音符;記錄"
+        },
+        {
+            "id": 102,
+            "word": "ox",
+            "word_type": "[名]",
+            "meaning": "公牛"
+        },
+        {
+            "id": 103,
+            "word": "papaya",
+            "word_type": "[名]",
+            "meaning": "木瓜"
+        },
+        {
+            "id": 104,
+            "word": "paste",
+            "word_type": "[動][名]",
+            "meaning": "黏貼;漿糊"
+        },
+        {
+            "id": 105,
+            "word": "peach",
+            "word_type": "[名]",
+            "meaning": "桃子"
+        },
+        {
+            "id": 106,
+            "word": "pear",
+            "word_type": "[名]",
+            "meaning": "梨子"
+        },
+        {
+            "id": 107,
+            "word": "photo",
+            "word_type": "[名]",
+            "meaning": "相片"
+        },
+        {
+            "id": 108,
+            "word": "pin",
+            "word_type": "[名]",
+            "meaning": "大頭針;胸針"
+        },
+        {
+            "id": 109,
+            "word": "pipe",
+            "word_type": "[名]",
+            "meaning": "管子"
+        },
+        {
+            "id": 110,
+            "word": "planet",
+            "word_type": "[名]",
+            "meaning": "行星"
+        },
+        {
+            "id": 111,
+            "word": "plant",
+            "word_type": "[動][名]",
+            "meaning": "栽種;播種;植物,農作物;工廠"
+        },
+        {
+            "id": 112,
+            "word": "plate",
+            "word_type": "[名]",
+            "meaning": "盤;碟"
+        },
+        {
+            "id": 113,
+            "word": "pleasure",
+            "word_type": "[名]",
+            "meaning": "愉快"
+        },
+        {
+            "id": 114,
+            "word": "pocket",
+            "word_type": "[名]",
+            "meaning": "口袋"
+        },
+        {
+            "id": 115,
+            "word": "pond",
+            "word_type": "[名]",
+            "meaning": "池塘"
+        },
+        {
+            "id": 116,
+            "word": "pool",
+            "word_type": "[名]",
+            "meaning": "水池;美式撞球"
+        },
+        {
+            "id": 117,
+            "word": "pot",
+            "word_type": "[名]",
+            "meaning": "罐;鍋"
+        },
+        {
+            "id": 118,
+            "word": "power",
+            "word_type": "[名]",
+            "meaning": "權力;動力"
+        },
+        {
+            "id": 119,
+            "word": "pray",
+            "word_type": "[動]",
+            "meaning": "禱告"
+        },
+        {
+            "id": 120,
+            "word": "prince",
+            "word_type": "[名]",
+            "meaning": "王子"
+        },
+        {
+            "id": 121,
+            "word": "princess",
+            "word_type": "[名]",
+            "meaning": "公主"
+        },
+        {
+            "id": 122,
+            "word": "prize",
+            "word_type": "[名]",
+            "meaning": "獎品"
+        },
+        {
+            "id": 123,
+            "word": "pumpkin",
+            "word_type": "[名]",
+            "meaning": "南瓜"
+        },
+        {
+            "id": 124,
+            "word": "puppy",
+            "word_type": "[名]",
+            "meaning": "小狗"
+        },
+        {
+            "id": 125,
+            "word": "quarter",
+            "word_type": "[名]",
+            "meaning": "1/4;美金25分;15分鐘"
+        },
+        {
+            "id": 126,
+            "word": "quiz",
+            "word_type": "[名]",
+            "meaning": "小考"
+        },
+        {
+            "id": 127,
+            "word": "race",
+            "word_type": "[動][名]",
+            "meaning": "與...賽跑;競賽;(生物的)種類"
+        },
+        {
+            "id": 128,
+            "word": "raise",
+            "word_type": "[動]",
+            "meaning": "舉起;提高"
+        },
+        {
+            "id": 129,
+            "word": "rat",
+            "word_type": "[名]",
+            "meaning": "老鼠"
+        },
+        {
+            "id": 130,
+            "word": "recorder",
+            "word_type": "[名]",
+            "meaning": "錄影機;錄音機"
+        },
+        {
+            "id": 131,
+            "word": "reporter",
+            "word_type": "[名]",
+            "meaning": "記者"
+        },
+        {
+            "id": 132,
+            "word": "rise",
+            "word_type": "[動]",
+            "meaning": "起身;升起"
+        },
+        {
+            "id": 133,
+            "word": "robot",
+            "word_type": "[名]",
+            "meaning": "機器人"
+        },
+        {
+            "id": 134,
+            "word": "rock",
+            "word_type": "[動][名]",
+            "meaning": "搖動;岩石;搖滾樂"
+        },
+        {
+            "id": 135,
+            "word": "roll",
+            "word_type": "[動]",
+            "meaning": "捲;滾"
+        },
+        {
+            "id": 136,
+            "word": "rope",
+            "word_type": "[名]",
+            "meaning": "粗繩"
+        },
+        {
+            "id": 137,
+            "word": "row",
+            "word_type": "[動][名]",
+            "meaning": "划船;行列"
+        },
+        {
+            "id": 138,
+            "word": "sail",
+            "word_type": "[動]",
+            "meaning": "航行"
+        },
+        {
+            "id": 139,
+            "word": "salesman",
+            "word_type": "[名]",
+            "meaning": "售貨員"
+        },
+        {
+            "id": 140,
+            "word": "scared",
+            "word_type": "[形]",
+            "meaning": "害怕的"
+        },
+        {
+            "id": 141,
+            "word": "science",
+            "word_type": "[名]",
+            "meaning": "科學"
+        },
+        {
+            "id": 142,
+            "word": "scooter",
+            "word_type": "[名]",
+            "meaning": "小輪摩托車"
+        },
+        {
+            "id": 143,
+            "word": "screen",
+            "word_type": "[名]",
+            "meaning": "屏;銀幕"
+        },
+        {
+            "id": 144,
+            "word": "secretary",
+            "word_type": "[名]",
+            "meaning": "秘書"
+        },
+        {
+            "id": 145,
+            "word": "seed",
+            "word_type": "[名]",
+            "meaning": "種子"
+        },
+        {
+            "id": 146,
+            "word": "seesaw",
+            "word_type": "[名]",
+            "meaning": "蹺蹺板"
+        },
+        {
+            "id": 147,
+            "word": "shake",
+            "word_type": "[動][名]",
+            "meaning": "搖動;握(手);搖動;奶昔"
+        },
+        {
+            "id": 148,
+            "word": "shark",
+            "word_type": "[名]",
+            "meaning": "鯊魚"
+        },
+        {
+            "id": 149,
+            "word": "sharp",
+            "word_type": "[形]",
+            "meaning": "尖銳的;敏銳的"
+        },
+        {
+            "id": 150,
+            "word": "shine",
+            "word_type": "[動]",
+            "meaning": "照耀"
+        },
+        {
+            "id": 151,
+            "word": "shorts",
+            "word_type": "[名]",
+            "meaning": "短褲"
+        },
+        {
+            "id": 152,
+            "word": "shout",
+            "word_type": "[動]",
+            "meaning": "呼叫"
+        },
+        {
+            "id": 153,
+            "word": "sight",
+            "word_type": "[名]",
+            "meaning": "視力;景象"
+        },
+        {
+            "id": 154,
+            "word": "sign",
+            "word_type": "[動][名]",
+            "meaning": "簽字;做信號;記號"
+        },
+        {
+            "id": 155,
+            "word": "skate",
+            "word_type": "[動][名]",
+            "meaning": "溜冰;冰鞋"
+        },
+        {
+            "id": 156,
+            "word": "slide",
+            "word_type": "[動][名]",
+            "meaning": "滑壘滑動;滑梯;土崩"
+        },
+        {
+            "id": 157,
+            "word": "slim",
+            "word_type": "[形]",
+            "meaning": "細長的;微小的"
+        },
+        {
+            "id": 158,
+            "word": "snowman",
+            "word_type": "[名]",
+            "meaning": "雪人"
+        },
+        {
+            "id": 159,
+            "word": "snowy",
+            "word_type": "[形]",
+            "meaning": "似雪的;多雪的"
+        },
+        {
+            "id": 160,
+            "word": "soccer",
+            "word_type": "[名]",
+            "meaning": "足球"
+        },
+        {
+            "id": 161,
+            "word": "soldier",
+            "word_type": "[名]",
+            "meaning": "軍人"
+        },
+        {
+            "id": 162,
+            "word": "sore",
+            "word_type": "[形]",
+            "meaning": "疼痛的"
+        },
+        {
+            "id": 163,
+            "word": "spaghetti",
+            "word_type": "[名]",
+            "meaning": "義大利麵條"
+        },
+        {
+            "id": 164,
+            "word": "spider",
+            "word_type": "[名]",
+            "meaning": "蜘蛛"
+        },
+        {
+            "id": 165,
+            "word": "stairs",
+            "word_type": "[名]",
+            "meaning": "樓梯"
+        },
+        {
+            "id": 166,
+            "word": "stamp",
+            "word_type": "[動][名]",
+            "meaning": "頓足;蓋印;郵票;印章"
+        },
+        {
+            "id": 167,
+            "word": "straight",
+            "word_type": "[形]",
+            "meaning": "直的"
+        },
+        {
+            "id": 168,
+            "word": "straw",
+            "word_type": "[名]",
+            "meaning": "稻草;吸管"
+        },
+        {
+            "id": 169,
+            "word": "strawberry",
+            "word_type": "[名]",
+            "meaning": "草莓"
+        },
+        {
+            "id": 170,
+            "word": "subject",
+            "word_type": "[名]",
+            "meaning": "主題;學科"
+        },
+        {
+            "id": 171,
+            "word": "surf",
+            "word_type": "[動][名]",
+            "meaning": "衝浪;在網路或頻道上搜索資料;海浪"
+        },
+        {
+            "id": 172,
+            "word": "swing",
+            "word_type": "[動][名]",
+            "meaning": "搖擺;揮動;鞦韆;搖擺音樂"
+        },
+        {
+            "id": 173,
+            "word": "tail",
+            "word_type": "[名]",
+            "meaning": "尾巴"
+        },
+        {
+            "id": 174,
+            "word": "temple",
+            "word_type": "[名]",
+            "meaning": "廟宇;神殿"
+        },
+        {
+            "id": 175,
+            "word": "terrible",
+            "word_type": "[形]",
+            "meaning": "可怕的"
+        },
+        {
+            "id": 176,
+            "word": "thick",
+            "word_type": "[形]",
+            "meaning": "粗的;厚的"
+        },
+        {
+            "id": 177,
+            "word": "throat",
+            "word_type": "[名]",
+            "meaning": "喉嚨"
+        },
+        {
+            "id": 178,
+            "word": "throw",
+            "word_type": "[動]",
+            "meaning": "投;拋"
+        },
+        {
+            "id": 179,
+            "word": "tidy",
+            "word_type": "[形][動]",
+            "meaning": "整潔的;使整潔"
+        },
+        {
+            "id": 180,
+            "word": "tie",
+            "word_type": "[動][名]",
+            "meaning": "綁;繫;結;領帶;平手"
+        },
+        {
+            "id": 181,
+            "word": "toast",
+            "word_type": "[動][名]",
+            "meaning": "烤;乾杯;烤麵包片"
+        },
+        {
+            "id": 182,
+            "word": "toe",
+            "word_type": "[名]",
+            "meaning": "腳趾"
+        },
+        {
+            "id": 183,
+            "word": "tool",
+            "word_type": "[名]",
+            "meaning": "工具"
+        },
+        {
+            "id": 184,
+            "word": "top",
+            "word_type": "[形][名]",
+            "meaning": "最高的;頂部;陀螺"
+        },
+        {
+            "id": 185,
+            "word": "total",
+            "word_type": "[形][名]",
+            "meaning": "總的;總額"
+        },
+        {
+            "id": 186,
+            "word": "trash",
+            "word_type": "[名]",
+            "meaning": "垃圾"
+        },
+        {
+            "id": 187,
+            "word": "treat",
+            "word_type": "[動][名]",
+            "meaning": "對待;治療;款待"
+        },
+        {
+            "id": 188,
+            "word": "trick",
+            "word_type": "[動][名]",
+            "meaning": "欺騙;詭計;戲法;惡作劇"
+        },
+        {
+            "id": 189,
+            "word": "T-shirt",
+            "word_type": "[名]",
+            "meaning": "T恤"
+        },
+        {
+            "id": 190,
+            "word": "tub",
+            "word_type": "[名]",
+            "meaning": "浴缸"
+        },
+        {
+            "id": 191,
+            "word": "turkey",
+            "word_type": "[名]",
+            "meaning": "火雞"
+        },
+        {
+            "id": 192,
+            "word": "turtle",
+            "word_type": "[名]",
+            "meaning": "烏龜"
+        },
+        {
+            "id": 193,
+            "word": "twice",
+            "word_type": "[副]",
+            "meaning": "兩次"
+        },
+        {
+            "id": 194,
+            "word": "type",
+            "word_type": "[動][名]",
+            "meaning": "打字;類型"
+        },
+        {
+            "id": 195,
+            "word": "vest",
+            "word_type": "[名]",
+            "meaning": "背心"
+        },
+        {
+            "id": 196,
+            "word": "violin",
+            "word_type": "[名]",
+            "meaning": "小提琴"
+        },
+        {
+            "id": 197,
+            "word": "wallet",
+            "word_type": "[名]",
+            "meaning": "皮夾"
+        },
+        {
+            "id": 198,
+            "word": "watermelon",
+            "word_type": "[名]",
+            "meaning": "西瓜"
+        },
+        {
+            "id": 199,
+            "word": "wave",
+            "word_type": "[動][名]",
+            "meaning": "揮動;波浪"
+        },
+        {
+            "id": 200,
+            "word": "whale",
+            "word_type": "[名]",
+            "meaning": "鯨魚"
+        },
+        {
+            "id": 201,
+            "word": "yard",
+            "word_type": "[名]",
+            "meaning": "庭院;碼(3英呎)"
+        },
+        {
+            "id": 202,
+            "word": "yummy",
+            "word_type": "[形]",
+            "meaning": "好吃的"
+        },
+        {
+            "id": 203,
+            "word": "zebra",
+            "word_type": "[名]",
+            "meaning": "斑馬"
+        },
+        {
+            "id": 204,
+            "word": "zero",
+            "word_type": "[形][名]",
+            "meaning": "零的;零"
+        },
+        {
+            "id": 205,
+            "word": "absent",
+            "word_type": "[形]",
+            "meaning": "缺席的,不在場的"
+        },
+        {
+            "id": 206,
+            "word": "accept",
+            "word_type": "[動]",
+            "meaning": "接受"
+        },
+        {
+            "id": 207,
+            "word": "accident",
+            "word_type": "[名]",
+            "meaning": "事故;災禍"
+        },
+        {
+            "id": 208,
+            "word": "active",
+            "word_type": "[形]",
+            "meaning": "活躍的"
+        },
+        {
+            "id": 209,
+            "word": "activity",
+            "word_type": "[名]",
+            "meaning": "活動"
+        },
+        {
+            "id": 210,
+            "word": "add",
+            "word_type": "[動]",
+            "meaning": "添加"
+        },
+        {
+            "id": 211,
+            "word": "address",
+            "word_type": "[名]",
+            "meaning": "地址;演說"
+        },
+        {
+            "id": 212,
+            "word": "admire",
+            "word_type": "[動]",
+            "meaning": "欽佩;欣賞"
+        },
+        {
+            "id": 213,
+            "word": "adult",
+            "word_type": "[名]",
+            "meaning": "成年人"
+        },
+        {
+            "id": 214,
+            "word": "advertisement",
+            "word_type": "[名]",
+            "meaning": "廣告"
+        },
+        {
+            "id": 215,
+            "word": "advice",
+            "word_type": "[名]",
+            "meaning": "忠告"
+        },
+        {
+            "id": 216,
+            "word": "affect",
+            "word_type": "[動]",
+            "meaning": "影響"
+        },
+        {
+            "id": 217,
+            "word": "against",
+            "word_type": "[介]",
+            "meaning": "反對，違反"
+        },
+        {
+            "id": 218,
+            "word": "aim",
+            "word_type": "[動][名]",
+            "meaning": "瞄準,對準;目標,目的"
+        },
+        {
+            "id": 219,
+            "word": "air",
+            "word_type": "[名]",
+            "meaning": "conditioner 冷氣機"
+        },
+        {
+            "id": 220,
+            "word": "airlines",
+            "word_type": "[名]",
+            "meaning": "航線,航空公司"
+        },
+        {
+            "id": 221,
+            "word": "alarm",
+            "word_type": "[名]",
+            "meaning": "警鈴;警報;驚慌"
+        },
+        {
+            "id": 222,
+            "word": "album",
+            "word_type": "[名]",
+            "meaning": "相簿;集郵簿;唱片集"
+        },
+        {
+            "id": 223,
+            "word": "alike",
+            "word_type": "[形]",
+            "meaning": "相似的"
+        },
+        {
+            "id": 224,
+            "word": "alive",
+            "word_type": "[形]",
+            "meaning": "活著的;活躍的"
+        },
+        {
+            "id": 225,
+            "word": "allow",
+            "word_type": "[動]",
+            "meaning": "允許"
+        },
+        {
+            "id": 226,
+            "word": "alone",
+            "word_type": "[形]",
+            "meaning": "單獨的;孤單的"
+        },
+        {
+            "id": 227,
+            "word": "alphabet",
+            "word_type": "[名]",
+            "meaning": "字母"
+        },
+        {
+            "id": 228,
+            "word": "altogether",
+            "word_type": "[副]",
+            "meaning": "完全地;總共"
+        },
+        {
+            "id": 229,
+            "word": "ambulance",
+            "word_type": "[名]",
+            "meaning": "救護車"
+        },
+        {
+            "id": 230,
+            "word": "among",
+            "word_type": "[介]",
+            "meaning": "在...之中"
+        },
+        {
+            "id": 231,
+            "word": "amount",
+            "word_type": "[名]",
+            "meaning": "總數"
+        },
+        {
+            "id": 232,
+            "word": "ancient",
+            "word_type": "[形]",
+            "meaning": "古代的"
+        },
+        {
+            "id": 233,
+            "word": "angel",
+            "word_type": "[名]",
+            "meaning": "天使"
+        },
+        {
+            "id": 234,
+            "word": "anger",
+            "word_type": "[名]",
+            "meaning": "生氣"
+        },
+        {
+            "id": 235,
+            "word": "ankle",
+            "word_type": "[名]",
+            "meaning": "腳踝"
+        },
+        {
+            "id": 236,
+            "word": "anywhere",
+            "word_type": "[副]",
+            "meaning": "任何地方"
+        },
+        {
+            "id": 237,
+            "word": "apologize",
+            "word_type": "[動]",
+            "meaning": "道歉"
+        },
+        {
+            "id": 238,
+            "word": "appreciate",
+            "word_type": "[動]",
+            "meaning": "感謝;賞識"
+        },
+        {
+            "id": 239,
+            "word": "area",
+            "word_type": "[名]",
+            "meaning": "地區;面積"
+        },
+        {
+            "id": 240,
+            "word": "argue",
+            "word_type": "[動]",
+            "meaning": "爭論"
+        },
+        {
+            "id": 241,
+            "word": "armchair",
+            "word_type": "[名]",
+            "meaning": "扶手椅子"
+        },
+        {
+            "id": 242,
+            "word": "army",
+            "word_type": "[名]",
+            "meaning": "軍隊;大群"
+        },
+        {
+            "id": 243,
+            "word": "arrange",
+            "word_type": "[動]",
+            "meaning": "排列;整理"
+        },
+        {
+            "id": 244,
+            "word": "artist",
+            "word_type": "[名]",
+            "meaning": "藝術家"
+        },
+        {
+            "id": 245,
+            "word": "asleep",
+            "word_type": "[形]",
+            "meaning": "睡著的"
+        },
+        {
+            "id": 246,
+            "word": "assistant",
+            "word_type": "[名]",
+            "meaning": "助手"
+        },
+        {
+            "id": 247,
+            "word": "assume",
+            "word_type": "[動]",
+            "meaning": "假定"
+        },
+        {
+            "id": 248,
+            "word": "attention",
+            "word_type": "[名]",
+            "meaning": "注意;專心"
+        },
+        {
+            "id": 249,
+            "word": "available",
+            "word_type": "[形]",
+            "meaning": "可用的"
+        },
+        {
+            "id": 250,
+            "word": "avoid",
+            "word_type": "[動]",
+            "meaning": "避免"
+        },
+        {
+            "id": 251,
+            "word": "baby",
+            "word_type": "[名]",
+            "meaning": "sitter 替人看小孩者"
+        },
+        {
+            "id": 252,
+            "word": "backpack",
+            "word_type": "[名]",
+            "meaning": "背包"
+        },
+        {
+            "id": 253,
+            "word": "backward",
+            "word_type": "[形][副]",
+            "meaning": "向後的;落後的;向後地;落後地"
+        },
+        {
+            "id": 254,
+            "word": "balloon",
+            "word_type": "[名]",
+            "meaning": "汽球"
+        },
+        {
+            "id": 255,
+            "word": "barber",
+            "word_type": "[名]",
+            "meaning": "男理髮師"
+        },
+        {
+            "id": 256,
+            "word": "bark",
+            "word_type": "[動][名]",
+            "meaning": "狗叫;吠聲"
+        },
+        {
+            "id": 257,
+            "word": "basement",
+            "word_type": "[名]",
+            "meaning": "地下室"
+        },
+        {
+            "id": 258,
+            "word": "basic",
+            "word_type": "[形]",
+            "meaning": "基本的"
+        },
+        {
+            "id": 259,
+            "word": "bathe",
+            "word_type": "[動]",
+            "meaning": "洗澡"
+        },
+        {
+            "id": 260,
+            "word": "beard",
+            "word_type": "[名]",
+            "meaning": "鬍子"
+        },
+        {
+            "id": 261,
+            "word": "beat",
+            "word_type": "[動]",
+            "meaning": "擊敗;敲擊"
+        },
+        {
+            "id": 262,
+            "word": "beauty",
+            "word_type": "[名]",
+            "meaning": "美貌;美人"
+        },
+        {
+            "id": 263,
+            "word": "beer",
+            "word_type": "[名]",
+            "meaning": "啤酒"
+        },
+        {
+            "id": 264,
+            "word": "beginner",
+            "word_type": "[名]",
+            "meaning": "新手"
+        },
+        {
+            "id": 265,
+            "word": "behave",
+            "word_type": "[動]",
+            "meaning": "舉動;守規矩"
+        },
+        {
+            "id": 266,
+            "word": "besides",
+            "word_type": "[副][介]",
+            "meaning": "並且;除...之外"
+        },
+        {
+            "id": 267,
+            "word": "beyond",
+            "word_type": "[副][介]",
+            "meaning": "在更遠處;越出;晚於;在...那一邊"
+        },
+        {
+            "id": 268,
+            "word": "bill",
+            "word_type": "[動][名]",
+            "meaning": "記入帳;帳單;鈔票"
+        },
+        {
+            "id": 269,
+            "word": "biology",
+            "word_type": "[名]",
+            "meaning": "生物學"
+        },
+        {
+            "id": 270,
+            "word": "bitter",
+            "word_type": "[形]",
+            "meaning": "苦的;嚴酷的"
+        },
+        {
+            "id": 271,
+            "word": "blame",
+            "word_type": "[動]",
+            "meaning": "歸咎於"
+        },
+        {
+            "id": 272,
+            "word": "blank",
+            "word_type": "[名]",
+            "meaning": "空白"
+        },
+        {
+            "id": 273,
+            "word": "bless",
+            "word_type": "[動]",
+            "meaning": "祝福;保佑"
+        },
+        {
+            "id": 274,
+            "word": "blood",
+            "word_type": "[名]",
+            "meaning": "血"
+        },
+        {
+            "id": 275,
+            "word": "blouse",
+            "word_type": "[名]",
+            "meaning": "女裝短上衣"
+        },
+        {
+            "id": 276,
+            "word": "board",
+            "word_type": "[動][名]",
+            "meaning": "上車;上船;木板;;車上;船上"
+        },
+        {
+            "id": 277,
+            "word": "bomb",
+            "word_type": "[名]",
+            "meaning": "炸彈"
+        },
+        {
+            "id": 278,
+            "word": "bone",
+            "word_type": "[名]",
+            "meaning": "骨頭"
+        },
+        {
+            "id": 279,
+            "word": "bookcase",
+            "word_type": "[名]",
+            "meaning": "書架"
+        },
+        {
+            "id": 280,
+            "word": "bother",
+            "word_type": "[動]",
+            "meaning": "煩擾"
+        },
+        {
+            "id": 281,
+            "word": "bowling",
+            "word_type": "[名]",
+            "meaning": "保齡球戲"
+        },
+        {
+            "id": 282,
+            "word": "branch",
+            "word_type": "[名]",
+            "meaning": "樹枝;支部"
+        },
+        {
+            "id": 283,
+            "word": "brave",
+            "word_type": "[形]",
+            "meaning": "勇敢的"
+        },
+        {
+            "id": 284,
+            "word": "brick",
+            "word_type": "[名]",
+            "meaning": "磚塊"
+        },
+        {
+            "id": 285,
+            "word": "broad",
+            "word_type": "[形]",
+            "meaning": "寬廣的"
+        },
+        {
+            "id": 286,
+            "word": "broadcast",
+            "word_type": "[動]",
+            "meaning": "廣播"
+        },
+        {
+            "id": 287,
+            "word": "brunch",
+            "word_type": "[名]",
+            "meaning": "早午餐"
+        },
+        {
+            "id": 288,
+            "word": "bucket",
+            "word_type": "[名]",
+            "meaning": "水桶"
+        },
+        {
+            "id": 289,
+            "word": "buffet",
+            "word_type": "[名]",
+            "meaning": "自助餐"
+        },
+        {
+            "id": 290,
+            "word": "bundle",
+            "word_type": "[名]",
+            "meaning": "捆;大量"
+        },
+        {
+            "id": 291,
+            "word": "burger",
+            "word_type": "[名]",
+            "meaning": "漢堡牛肉餅"
+        },
+        {
+            "id": 292,
+            "word": "burst",
+            "word_type": "[動]",
+            "meaning": "爆開;闖入"
+        },
+        {
+            "id": 293,
+            "word": "button",
+            "word_type": "[動][名]",
+            "meaning": "扣鈕扣;鈕扣"
+        },
+        {
+            "id": 294,
+            "word": "cabbage",
+            "word_type": "[名]",
+            "meaning": "包心菜"
+        },
+        {
+            "id": 295,
+            "word": "cable",
+            "word_type": "[名]",
+            "meaning": "纜索;有線電視"
+        },
+        {
+            "id": 296,
+            "word": "cafeteria",
+            "word_type": "[名]",
+            "meaning": "自助餐館"
+        },
+        {
+            "id": 297,
+            "word": "calendar",
+            "word_type": "[名]",
+            "meaning": "日曆;月曆;行事曆"
+        },
+        {
+            "id": 298,
+            "word": "calm",
+            "word_type": "[形][動]",
+            "meaning": "寧靜的;變安靜"
+        },
+        {
+            "id": 299,
+            "word": "campus",
+            "word_type": "[名]",
+            "meaning": "校園"
+        },
+        {
+            "id": 300,
+            "word": "cancel",
+            "word_type": "[動]",
+            "meaning": "取消"
+        },
+        {
+            "id": 301,
+            "word": "cancer",
+            "word_type": "[名]",
+            "meaning": "癌症"
+        },
+        {
+            "id": 302,
+            "word": "captain",
+            "word_type": "[名]",
+            "meaning": "隊長;機長;艦長"
+        },
+        {
+            "id": 303,
+            "word": "careless",
+            "word_type": "[形]",
+            "meaning": "粗心的"
+        },
+        {
+            "id": 304,
+            "word": "carpet",
+            "word_type": "[名]",
+            "meaning": "地毯"
+        },
+        {
+            "id": 305,
+            "word": "carrot",
+            "word_type": "[名]",
+            "meaning": "胡蘿蔔"
+        },
+        {
+            "id": 306,
+            "word": "cartoon",
+            "word_type": "[名]",
+            "meaning": "卡通"
+        },
+        {
+            "id": 307,
+            "word": "cash",
+            "word_type": "[動][名]",
+            "meaning": "兌現;現款"
+        },
+        {
+            "id": 308,
+            "word": "cause",
+            "word_type": "[名]",
+            "meaning": "原因;理由"
+        },
+        {
+            "id": 309,
+            "word": "ceiling",
+            "word_type": "[名]",
+            "meaning": "天花板"
+        },
+        {
+            "id": 310,
+            "word": "central",
+            "word_type": "[形]",
+            "meaning": "中央的"
+        },
+        {
+            "id": 311,
+            "word": "century",
+            "word_type": "[名]",
+            "meaning": "一世紀"
+        },
+        {
+            "id": 312,
+            "word": "cereal",
+            "word_type": "[名]",
+            "meaning": "麥片"
+        },
+        {
+            "id": 313,
+            "word": "certain",
+            "word_type": "[形]",
+            "meaning": "肯定的"
+        },
+        {
+            "id": 314,
+            "word": "channel",
+            "word_type": "[名]",
+            "meaning": "管道;頻道"
+        },
+        {
+            "id": 315,
+            "word": "character",
+            "word_type": "[名]",
+            "meaning": "特性;角色;(中文)字"
+        },
+        {
+            "id": 316,
+            "word": "charge",
+            "word_type": "[動][名]",
+            "meaning": "索價;充電;費用;充電"
+        },
+        {
+            "id": 317,
+            "word": "chart",
+            "word_type": "[名]",
+            "meaning": "圖表"
+        },
+        {
+            "id": 318,
+            "word": "chase",
+            "word_type": "[動]",
+            "meaning": "追"
+        },
+        {
+            "id": 319,
+            "word": "chemistry",
+            "word_type": "[名]",
+            "meaning": "化學"
+        },
+        {
+            "id": 320,
+            "word": "childhood",
+            "word_type": "[名]",
+            "meaning": "幼時"
+        },
+        {
+            "id": 321,
+            "word": "childish",
+            "word_type": "[形]",
+            "meaning": "幼稚的"
+        },
+        {
+            "id": 322,
+            "word": "chin",
+            "word_type": "[名]",
+            "meaning": "下巴"
+        },
+        {
+            "id": 323,
+            "word": "choice",
+            "word_type": "[名]",
+            "meaning": "選擇"
+        },
+        {
+            "id": 324,
+            "word": "chubby",
+            "word_type": "[形]",
+            "meaning": "圓胖的"
+        },
+        {
+            "id": 325,
+            "word": "classical",
+            "word_type": "[形]",
+            "meaning": "古典的"
+        },
+        {
+            "id": 326,
+            "word": "clever",
+            "word_type": "[形]",
+            "meaning": "聰明伶俐的"
+        },
+        {
+            "id": 327,
+            "word": "climate",
+            "word_type": "[名]",
+            "meaning": "氣候"
+        },
+        {
+            "id": 328,
+            "word": "closet",
+            "word_type": "[名]",
+            "meaning": "壁櫥;衣櫥"
+        },
+        {
+            "id": 329,
+            "word": "cloud",
+            "word_type": "[名]",
+            "meaning": "雲"
+        },
+        {
+            "id": 330,
+            "word": "coach",
+            "word_type": "[名]",
+            "meaning": "教練"
+        },
+        {
+            "id": 331,
+            "word": "coast",
+            "word_type": "[名]",
+            "meaning": "海岸"
+        },
+        {
+            "id": 332,
+            "word": "cockroach",
+            "word_type": "[名]",
+            "meaning": "蟑螂"
+        },
+        {
+            "id": 333,
+            "word": "coin",
+            "word_type": "[名]",
+            "meaning": "硬幣"
+        },
+        {
+            "id": 334,
+            "word": "college",
+            "word_type": "[名]",
+            "meaning": "學院;大學"
+        },
+        {
+            "id": 335,
+            "word": "colorful",
+            "word_type": "[形]",
+            "meaning": "富有色彩的"
+        },
+        {
+            "id": 336,
+            "word": "command",
+            "word_type": "[名]",
+            "meaning": "命令"
+        },
+        {
+            "id": 337,
+            "word": "comment",
+            "word_type": "[動][名]",
+            "meaning": "評論;評論"
+        },
+        {
+            "id": 338,
+            "word": "company",
+            "word_type": "[名]",
+            "meaning": "公司"
+        },
+        {
+            "id": 339,
+            "word": "compare",
+            "word_type": "[動]",
+            "meaning": "比較"
+        },
+        {
+            "id": 340,
+            "word": "complain",
+            "word_type": "[動]",
+            "meaning": "抱怨"
+        },
+        {
+            "id": 341,
+            "word": "complete",
+            "word_type": "[形][動]",
+            "meaning": "完整的；徹底的;完成"
+        },
+        {
+            "id": 342,
+            "word": "concern",
+            "word_type": "[動][名]",
+            "meaning": "使擔心;關懷"
+        },
+        {
+            "id": 343,
+            "word": "confident",
+            "word_type": "[形]",
+            "meaning": "有信心的"
+        },
+        {
+            "id": 344,
+            "word": "confuse",
+            "word_type": "[動]",
+            "meaning": "使迷惑"
+        },
+        {
+            "id": 345,
+            "word": "congratulation",
+            "word_type": "[名]",
+            "meaning": "祝賀"
+        },
+        {
+            "id": 346,
+            "word": "consider",
+            "word_type": "[動]",
+            "meaning": "考慮"
+        },
+        {
+            "id": 347,
+            "word": "considerate",
+            "word_type": "[形]",
+            "meaning": "體諒的"
+        },
+        {
+            "id": 348,
+            "word": "contact",
+            "word_type": "[名]",
+            "meaning": "lens 隱形眼鏡"
+        },
+        {
+            "id": 349,
+            "word": "continue",
+            "word_type": "[動]",
+            "meaning": "繼續"
+        },
+        {
+            "id": 350,
+            "word": "contract",
+            "word_type": "[名]",
+            "meaning": "和約"
+        },
+        {
+            "id": 351,
+            "word": "control",
+            "word_type": "[動]",
+            "meaning": "控制"
+        },
+        {
+            "id": 352,
+            "word": "convenience",
+            "word_type": "[名]",
+            "meaning": "store 便利商店"
+        },
+        {
+            "id": 353,
+            "word": "conversation",
+            "word_type": "[名]",
+            "meaning": "會話"
+        },
+        {
+            "id": 354,
+            "word": "corn",
+            "word_type": "[名]",
+            "meaning": "玉米"
+        },
+        {
+            "id": 355,
+            "word": "cotton",
+            "word_type": "[名]",
+            "meaning": "棉花"
+        },
+        {
+            "id": 356,
+            "word": "cough",
+            "word_type": "[動][名]",
+            "meaning": "咳嗽;咳嗽"
+        },
+        {
+            "id": 357,
+            "word": "couple",
+            "word_type": "[名]",
+            "meaning": "一對"
+        },
+        {
+            "id": 358,
+            "word": "courage",
+            "word_type": "[名]",
+            "meaning": "勇氣"
+        },
+        {
+            "id": 359,
+            "word": "court",
+            "word_type": "[名]",
+            "meaning": "法庭；(網球等的)場地"
+        },
+        {
+            "id": 360,
+            "word": "cowboy",
+            "word_type": "[名]",
+            "meaning": "牛仔"
+        },
+        {
+            "id": 361,
+            "word": "crab",
+            "word_type": "[名]",
+            "meaning": "螃蟹"
+        },
+        {
+            "id": 362,
+            "word": "crayon",
+            "word_type": "[名]",
+            "meaning": "蠟筆"
+        },
+        {
+            "id": 363,
+            "word": "cream",
+            "word_type": "[名]",
+            "meaning": "奶油"
+        },
+        {
+            "id": 364,
+            "word": "create",
+            "word_type": "[動]",
+            "meaning": "創造"
+        },
+        {
+            "id": 365,
+            "word": "credit",
+            "word_type": "[名]",
+            "meaning": "card 信用卡"
+        },
+        {
+            "id": 366,
+            "word": "crime",
+            "word_type": "[名]",
+            "meaning": "犯罪"
+        },
+        {
+            "id": 367,
+            "word": "crowd",
+            "word_type": "[名]",
+            "meaning": "群眾"
+        },
+        {
+            "id": 368,
+            "word": "crowded",
+            "word_type": "[形]",
+            "meaning": "擁擠的"
+        },
+        {
+            "id": 369,
+            "word": "cruel",
+            "word_type": "[形]",
+            "meaning": "殘酷的"
+        },
+        {
+            "id": 370,
+            "word": "culture",
+            "word_type": "[名]",
+            "meaning": "文化"
+        },
+        {
+            "id": 371,
+            "word": "cure",
+            "word_type": "[動][名]",
+            "meaning": "治癒;痊癒"
+        },
+        {
+            "id": 372,
+            "word": "curious",
+            "word_type": "[形]",
+            "meaning": "好奇的"
+        },
+        {
+            "id": 373,
+            "word": "current",
+            "word_type": "[形][名]",
+            "meaning": "現行的;水流;電流"
+        },
+        {
+            "id": 374,
+            "word": "curtain",
+            "word_type": "[名]",
+            "meaning": "窗簾;(舞臺上的)幕"
+        },
+        {
+            "id": 375,
+            "word": "curve",
+            "word_type": "[名]",
+            "meaning": "曲線"
+        },
+        {
+            "id": 376,
+            "word": "custom",
+            "word_type": "[名]",
+            "meaning": "習俗"
+        },
+        {
+            "id": 377,
+            "word": "customer",
+            "word_type": "[名]",
+            "meaning": "顧客"
+        },
+        {
+            "id": 378,
+            "word": "daily",
+            "word_type": "[形][副]",
+            "meaning": "每日的;每日"
+        },
+        {
+            "id": 379,
+            "word": "damage",
+            "word_type": "[動][名]",
+            "meaning": "損害;損害"
+        },
+        {
+            "id": 380,
+            "word": "danger",
+            "word_type": "[名]",
+            "meaning": "危險"
+        },
+        {
+            "id": 381,
+            "word": "dawn",
+            "word_type": "[動][名]",
+            "meaning": "破曉,頓悟;黎明"
+        },
+        {
+            "id": 382,
+            "word": "deaf",
+            "word_type": "[形]",
+            "meaning": "聾的"
+        },
+        {
+            "id": 383,
+            "word": "death",
+            "word_type": "[名]",
+            "meaning": "死亡"
+        },
+        {
+            "id": 384,
+            "word": "debate",
+            "word_type": "[動][名]",
+            "meaning": "辯論;辯論"
+        },
+        {
+            "id": 385,
+            "word": "decision",
+            "word_type": "[名]",
+            "meaning": "決定"
+        },
+        {
+            "id": 386,
+            "word": "decorate",
+            "word_type": "[動]",
+            "meaning": "佈置"
+        },
+        {
+            "id": 387,
+            "word": "decrease",
+            "word_type": "[動]",
+            "meaning": "減少"
+        },
+        {
+            "id": 388,
+            "word": "deep",
+            "word_type": "[形]",
+            "meaning": "深的"
+        },
+        {
+            "id": 389,
+            "word": "deer",
+            "word_type": "[名]",
+            "meaning": "鹿"
+        },
+        {
+            "id": 390,
+            "word": "degree",
+            "word_type": "[名]",
+            "meaning": "程度"
+        },
+        {
+            "id": 391,
+            "word": "deliver",
+            "word_type": "[動]",
+            "meaning": "遞送"
+        },
+        {
+            "id": 392,
+            "word": "department",
+            "word_type": "[名]",
+            "meaning": "部門"
+        },
+        {
+            "id": 393,
+            "word": "depend",
+            "word_type": "[動]",
+            "meaning": "依賴"
+        },
+        {
+            "id": 394,
+            "word": "describe",
+            "word_type": "[動]",
+            "meaning": "描述"
+        },
+        {
+            "id": 395,
+            "word": "desert",
+            "word_type": "[名]",
+            "meaning": "沙漠;(常複數)賞罰;(尤指)懲罰"
+        },
+        {
+            "id": 396,
+            "word": "design",
+            "word_type": "[動][名]",
+            "meaning": "設計;圖案;設計"
+        },
+        {
+            "id": 397,
+            "word": "desire",
+            "word_type": "[名]",
+            "meaning": "渴望"
+        },
+        {
+            "id": 398,
+            "word": "dessert",
+            "word_type": "[名]",
+            "meaning": "餐後甜點"
+        },
+        {
+            "id": 399,
+            "word": "detect",
+            "word_type": "[動]",
+            "meaning": "查出"
+        },
+        {
+            "id": 400,
+            "word": "develop",
+            "word_type": "[動]",
+            "meaning": "發展"
+        },
+        {
+            "id": 401,
+            "word": "dial",
+            "word_type": "[動]",
+            "meaning": "撥(電話號碼)"
+        },
+        {
+            "id": 402,
+            "word": "diamond",
+            "word_type": "[名]",
+            "meaning": "鑽石"
+        },
+        {
+            "id": 403,
+            "word": "diary",
+            "word_type": "[名]",
+            "meaning": "日記"
+        },
+        {
+            "id": 404,
+            "word": "diet",
+            "word_type": "[動][名]",
+            "meaning": "節食;飲食;特種飲食"
+        },
+        {
+            "id": 405,
+            "word": "difference",
+            "word_type": "[名]",
+            "meaning": "差別"
+        },
+        {
+            "id": 406,
+            "word": "difficulty",
+            "word_type": "[名]",
+            "meaning": "困難"
+        },
+        {
+            "id": 407,
+            "word": "diligent",
+            "word_type": "[形]",
+            "meaning": "勤勉的"
+        },
+        {
+            "id": 408,
+            "word": "dinosaur",
+            "word_type": "[名]",
+            "meaning": "恐龍"
+        },
+        {
+            "id": 409,
+            "word": "diplomat",
+            "word_type": "[名]",
+            "meaning": "外交官"
+        },
+        {
+            "id": 410,
+            "word": "direct",
+            "word_type": "[形][動]",
+            "meaning": "直接的;指引"
+        },
+        {
+            "id": 411,
+            "word": "direction",
+            "word_type": "[名]",
+            "meaning": "方向"
+        },
+        {
+            "id": 412,
+            "word": "disappear",
+            "word_type": "[動]",
+            "meaning": "消失"
+        },
+        {
+            "id": 413,
+            "word": "discover",
+            "word_type": "[動]",
+            "meaning": "發現"
+        },
+        {
+            "id": 414,
+            "word": "discuss",
+            "word_type": "[動]",
+            "meaning": "討論"
+        },
+        {
+            "id": 415,
+            "word": "discussion",
+            "word_type": "[名]",
+            "meaning": "討論"
+        },
+        {
+            "id": 416,
+            "word": "dishonest",
+            "word_type": "[形]",
+            "meaning": "不誠實的"
+        },
+        {
+            "id": 417,
+            "word": "distance",
+            "word_type": "[名]",
+            "meaning": "距離"
+        },
+        {
+            "id": 418,
+            "word": "divide",
+            "word_type": "[動]",
+            "meaning": "分開;除以"
+        },
+        {
+            "id": 419,
+            "word": "dizzy",
+            "word_type": "[形]",
+            "meaning": "暈眩的"
+        },
+        {
+            "id": 420,
+            "word": "dolphin",
+            "word_type": "[名]",
+            "meaning": "海豚"
+        },
+        {
+            "id": 421,
+            "word": "donkey",
+            "word_type": "[名]",
+            "meaning": "驢子"
+        },
+        {
+            "id": 422,
+            "word": "double",
+            "word_type": "[形][動][名]",
+            "meaning": "雙重的;加倍;兩倍"
+        },
+        {
+            "id": 423,
+            "word": "doubt",
+            "word_type": "[動][名]",
+            "meaning": "懷疑;懷疑"
+        },
+        {
+            "id": 424,
+            "word": "doughnut",
+            "word_type": "[名]",
+            "meaning": "油炸圈餅"
+        },
+        {
+            "id": 425,
+            "word": "downstairs",
+            "word_type": "[形][副][名]",
+            "meaning": "樓下的;樓下地;樓下"
+        },
+        {
+            "id": 426,
+            "word": "downtown",
+            "word_type": "[名]",
+            "meaning": ";城市商業區"
+        },
+        {
+            "id": 427,
+            "word": "drama",
+            "word_type": "[名]",
+            "meaning": "戲劇"
+        },
+        {
+            "id": 428,
+            "word": "dresser",
+            "word_type": "[名]",
+            "meaning": "衣櫃"
+        },
+        {
+            "id": 429,
+            "word": "drugstore",
+            "word_type": "[名]",
+            "meaning": "(常兼售雜貨的)藥房"
+        },
+        {
+            "id": 430,
+            "word": "dumb",
+            "word_type": "[形]",
+            "meaning": "愚笨的;啞的"
+        },
+        {
+            "id": 431,
+            "word": "duty",
+            "word_type": "[名]",
+            "meaning": "義務;關稅;責任"
+        },
+        {
+            "id": 432,
+            "word": "eagle",
+            "word_type": "[名]",
+            "meaning": "老鷹"
+        },
+        {
+            "id": 433,
+            "word": "earn",
+            "word_type": "[動]",
+            "meaning": "賺到"
+        },
+        {
+            "id": 434,
+            "word": "earrings",
+            "word_type": "[名]",
+            "meaning": "耳環"
+        },
+        {
+            "id": 435,
+            "word": "ease",
+            "word_type": "[動]",
+            "meaning": "減輕"
+        },
+        {
+            "id": 436,
+            "word": "edge",
+            "word_type": "[名]",
+            "meaning": "邊緣;優勢"
+        },
+        {
+            "id": 437,
+            "word": "education",
+            "word_type": "[名]",
+            "meaning": "教育"
+        },
+        {
+            "id": 438,
+            "word": "effort",
+            "word_type": "[名]",
+            "meaning": "努力"
+        },
+        {
+            "id": 439,
+            "word": "elder",
+            "word_type": "[形][名]",
+            "meaning": "年紀較長的;長輩"
+        },
+        {
+            "id": 440,
+            "word": "elect",
+            "word_type": "[動]",
+            "meaning": "選出"
+        },
+        {
+            "id": 441,
+            "word": "electric",
+            "word_type": "[形]",
+            "meaning": "電的"
+        },
+        {
+            "id": 442,
+            "word": "embarrass",
+            "word_type": "[動]",
+            "meaning": "使困窘"
+        },
+        {
+            "id": 443,
+            "word": "emotion",
+            "word_type": "[名]",
+            "meaning": "情緒"
+        },
+        {
+            "id": 444,
+            "word": "emphasize",
+            "word_type": "[動]",
+            "meaning": "強調"
+        },
+        {
+            "id": 445,
+            "word": "employ",
+            "word_type": "[動]",
+            "meaning": "僱用"
+        },
+        {
+            "id": 446,
+            "word": "empty",
+            "word_type": "[形]",
+            "meaning": "空的"
+        },
+        {
+            "id": 447,
+            "word": "enemy",
+            "word_type": "[名]",
+            "meaning": "敵人"
+        },
+        {
+            "id": 448,
+            "word": "energetic",
+            "word_type": "[形]",
+            "meaning": "精力充沛的"
+        },
+        {
+            "id": 449,
+            "word": "energy",
+            "word_type": "[名]",
+            "meaning": "精力;能量"
+        },
+        {
+            "id": 450,
+            "word": "engine",
+            "word_type": "[名]",
+            "meaning": "引擎"
+        },
+        {
+            "id": 451,
+            "word": "entrance",
+            "word_type": "[名]",
+            "meaning": "入口"
+        },
+        {
+            "id": 452,
+            "word": "environment",
+            "word_type": "[名]",
+            "meaning": "環境"
+        },
+        {
+            "id": 453,
+            "word": "envy",
+            "word_type": "[動]",
+            "meaning": "羨慕;嫉妒"
+        },
+        {
+            "id": 454,
+            "word": "equal",
+            "word_type": "[形]",
+            "meaning": "相等的;平等的"
+        },
+        {
+            "id": 455,
+            "word": "error",
+            "word_type": "[名]",
+            "meaning": "錯誤"
+        },
+        {
+            "id": 456,
+            "word": "especially",
+            "word_type": "[副]",
+            "meaning": "特別地"
+        },
+        {
+            "id": 457,
+            "word": "event",
+            "word_type": "[名]",
+            "meaning": "事件"
+        },
+        {
+            "id": 458,
+            "word": "everywhere",
+            "word_type": "[副]",
+            "meaning": "處處"
+        },
+        {
+            "id": 459,
+            "word": "evil",
+            "word_type": "[形]",
+            "meaning": "邪惡的"
+        },
+        {
+            "id": 460,
+            "word": "exam",
+            "word_type": "[名]",
+            "meaning": "考試"
+        },
+        {
+            "id": 461,
+            "word": "excite",
+            "word_type": "[動]",
+            "meaning": "使興奮;使激動"
+        },
+        {
+            "id": 462,
+            "word": "exist",
+            "word_type": "[動]",
+            "meaning": "存在"
+        },
+        {
+            "id": 463,
+            "word": "exit",
+            "word_type": "[名]",
+            "meaning": "出口"
+        },
+        {
+            "id": 464,
+            "word": "expect",
+            "word_type": "[動]",
+            "meaning": "期待"
+        },
+        {
+            "id": 465,
+            "word": "explain",
+            "word_type": "[動]",
+            "meaning": "解釋"
+        },
+        {
+            "id": 466,
+            "word": "express",
+            "word_type": "[動]",
+            "meaning": "表示"
+        },
+        {
+            "id": 467,
+            "word": "extra",
+            "word_type": "[形][名]",
+            "meaning": "額外的;附加的人物或錢;號外"
+        },
+        {
+            "id": 468,
+            "word": "fair",
+            "word_type": "[形]",
+            "meaning": "公平的;美好的"
+        },
+        {
+            "id": 469,
+            "word": "false",
+            "word_type": "[形]",
+            "meaning": "假的"
+        },
+        {
+            "id": 470,
+            "word": "fancy",
+            "word_type": "[形]",
+            "meaning": "花俏的;特級的"
+        },
+        {
+            "id": 471,
+            "word": "fantastic",
+            "word_type": "[形]",
+            "meaning": "奇妙的"
+        },
+        {
+            "id": 472,
+            "word": "fashionable",
+            "word_type": "[形]",
+            "meaning": "時尚的"
+        },
+        {
+            "id": 473,
+            "word": "faucet",
+            "word_type": "[名]",
+            "meaning": "水龍頭"
+        },
+        {
+            "id": 474,
+            "word": "fault",
+            "word_type": "[名]",
+            "meaning": "過錯"
+        },
+        {
+            "id": 475,
+            "word": "fear",
+            "word_type": "[動][名]",
+            "meaning": "畏懼;懼怕"
+        },
+        {
+            "id": 476,
+            "word": "fee",
+            "word_type": "[名]",
+            "meaning": "費用"
+        },
+        {
+            "id": 477,
+            "word": "female",
+            "word_type": "[形][名]",
+            "meaning": "女性的;雌性動物"
+        },
+        {
+            "id": 478,
+            "word": "fence",
+            "word_type": "[名]",
+            "meaning": "柵欄;籬笆"
+        },
+        {
+            "id": 479,
+            "word": "film",
+            "word_type": "[名]",
+            "meaning": "膠捲;影片"
+        },
+        {
+            "id": 480,
+            "word": "final",
+            "word_type": "[形]",
+            "meaning": "最終的"
+        },
+        {
+            "id": 481,
+            "word": "fit",
+            "word_type": "[動]",
+            "meaning": "合身;適合"
+        },
+        {
+            "id": 482,
+            "word": "flag",
+            "word_type": "[名]",
+            "meaning": "旗子"
+        },
+        {
+            "id": 483,
+            "word": "flashlight",
+            "word_type": "[名]",
+            "meaning": "手電筒"
+        },
+        {
+            "id": 484,
+            "word": "flat",
+            "word_type": "[名]",
+            "meaning": "tire 爆胎"
+        },
+        {
+            "id": 485,
+            "word": "flight",
+            "word_type": "[名]",
+            "meaning": "飛行"
+        },
+        {
+            "id": 486,
+            "word": "flour",
+            "word_type": "[名]",
+            "meaning": "麵粉"
+        },
+        {
+            "id": 487,
+            "word": "flu",
+            "word_type": "[名]",
+            "meaning": "流行性感冒"
+        },
+        {
+            "id": 488,
+            "word": "focus",
+            "word_type": "[動][名]",
+            "meaning": "集中;焦點"
+        },
+        {
+            "id": 489,
+            "word": "fog",
+            "word_type": "[名]",
+            "meaning": "霧"
+        },
+        {
+            "id": 490,
+            "word": "foggy",
+            "word_type": "[形]",
+            "meaning": "有霧的"
+        },
+        {
+            "id": 491,
+            "word": "fool",
+            "word_type": "[動][名]",
+            "meaning": "愚弄;呆子"
+        },
+        {
+            "id": 492,
+            "word": "foolish",
+            "word_type": "[形]",
+            "meaning": "愚蠢的"
+        },
+        {
+            "id": 493,
+            "word": "football",
+            "word_type": "[名]",
+            "meaning": "美式足球"
+        },
+        {
+            "id": 494,
+            "word": "forest",
+            "word_type": "[名]",
+            "meaning": "森林"
+        },
+        {
+            "id": 495,
+            "word": "forgive",
+            "word_type": "[動]",
+            "meaning": "原諒"
+        },
+        {
+            "id": 496,
+            "word": "form",
+            "word_type": "[動][名]",
+            "meaning": "形成;形態;表格"
+        },
+        {
+            "id": 497,
+            "word": "formal",
+            "word_type": "[形]",
+            "meaning": "正式的"
+        },
+        {
+            "id": 498,
+            "word": "former",
+            "word_type": "[形]",
+            "meaning": "前者"
+        },
+        {
+            "id": 499,
+            "word": "forward",
+            "word_type": "[形][動][副]",
+            "meaning": "前面的;轉遞;向前地"
+        },
+        {
+            "id": 500,
+            "word": "frank",
+            "word_type": "[形]",
+            "meaning": "坦白的"
+        },
+        {
+            "id": 501,
+            "word": "freedom",
+            "word_type": "[名]",
+            "meaning": "自由"
+        },
+        {
+            "id": 502,
+            "word": "freezer",
+            "word_type": "[名]",
+            "meaning": "冰箱的冷凍部;冷凍箱"
+        },
+        {
+            "id": 503,
+            "word": "freezing",
+            "word_type": "[形]",
+            "meaning": "冰凍的;極冷的"
+        },
+        {
+            "id": 504,
+            "word": "friendship",
+            "word_type": "[名]",
+            "meaning": "友誼"
+        },
+        {
+            "id": 505,
+            "word": "frighten",
+            "word_type": "[動]",
+            "meaning": "害怕;吃驚"
+        },
+        {
+            "id": 506,
+            "word": "furniture",
+            "word_type": "[名]",
+            "meaning": "傢俱"
+        },
+        {
+            "id": 507,
+            "word": "gain",
+            "word_type": "[動]",
+            "meaning": "得到;增進"
+        },
+        {
+            "id": 508,
+            "word": "garage",
+            "word_type": "[名]",
+            "meaning": "車庫"
+        },
+        {
+            "id": 509,
+            "word": "gather",
+            "word_type": "[動]",
+            "meaning": "集合"
+        },
+        {
+            "id": 510,
+            "word": "general",
+            "word_type": "[形][名]",
+            "meaning": "普遍的;將軍"
+        },
+        {
+            "id": 511,
+            "word": "generous",
+            "word_type": "[形]",
+            "meaning": "慷慨的"
+        },
+        {
+            "id": 512,
+            "word": "genius",
+            "word_type": "[名]",
+            "meaning": "天才"
+        },
+        {
+            "id": 513,
+            "word": "gentle",
+            "word_type": "[形]",
+            "meaning": "溫柔的"
+        },
+        {
+            "id": 514,
+            "word": "gentleman",
+            "word_type": "[名]",
+            "meaning": "紳士"
+        },
+        {
+            "id": 515,
+            "word": "geography",
+            "word_type": "[名]",
+            "meaning": "地理"
+        },
+        {
+            "id": 516,
+            "word": "gesture",
+            "word_type": "[名]",
+            "meaning": "姿勢;表示"
+        },
+        {
+            "id": 517,
+            "word": "goal",
+            "word_type": "[名]",
+            "meaning": "目標;球門"
+        },
+        {
+            "id": 518,
+            "word": "god",
+            "word_type": "[名]",
+            "meaning": "上帝"
+        },
+        {
+            "id": 519,
+            "word": "gold",
+            "word_type": "[形][名]",
+            "meaning": "金製的;黃金"
+        },
+        {
+            "id": 520,
+            "word": "golden",
+            "word_type": "[形]",
+            "meaning": "金色的"
+        },
+        {
+            "id": 521,
+            "word": "golf",
+            "word_type": "[名]",
+            "meaning": "高爾夫球"
+        },
+        {
+            "id": 522,
+            "word": "government",
+            "word_type": "[名]",
+            "meaning": "政府"
+        },
+        {
+            "id": 523,
+            "word": "granddaughter",
+            "word_type": "[名]",
+            "meaning": "孫女;外孫女"
+        },
+        {
+            "id": 524,
+            "word": "grandson",
+            "word_type": "[名]",
+            "meaning": "孫子;外孫"
+        },
+        {
+            "id": 525,
+            "word": "greedy",
+            "word_type": "[形]",
+            "meaning": "貪心的"
+        },
+        {
+            "id": 526,
+            "word": "greet",
+            "word_type": "[動]",
+            "meaning": "問候;致敬"
+        },
+        {
+            "id": 527,
+            "word": "guard",
+            "word_type": "[動][名]",
+            "meaning": "保衛;看守;警衛"
+        },
+        {
+            "id": 528,
+            "word": "guest",
+            "word_type": "[名]",
+            "meaning": "客人"
+        },
+        {
+            "id": 529,
+            "word": "guide",
+            "word_type": "[動][名]",
+            "meaning": "引導;嚮導"
+        },
+        {
+            "id": 530,
+            "word": "gun",
+            "word_type": "[名]",
+            "meaning": "槍"
+        },
+        {
+            "id": 531,
+            "word": "haircut",
+            "word_type": "[名]",
+            "meaning": "理髮"
+        },
+        {
+            "id": 532,
+            "word": "hall",
+            "word_type": "[名]",
+            "meaning": "大廳;講堂"
+        },
+        {
+            "id": 533,
+            "word": "hammer",
+            "word_type": "[動][名]",
+            "meaning": "敲打;鎚"
+        },
+        {
+            "id": 534,
+            "word": "handkerchief",
+            "word_type": "[名]",
+            "meaning": "手帕"
+        },
+        {
+            "id": 535,
+            "word": "handle",
+            "word_type": "[動][名]",
+            "meaning": "處理;搬弄;把手"
+        },
+        {
+            "id": 536,
+            "word": "hanger",
+            "word_type": "[名]",
+            "meaning": "衣架"
+        },
+        {
+            "id": 537,
+            "word": "heater",
+            "word_type": "[名]",
+            "meaning": "暖氣機"
+        },
+        {
+            "id": 538,
+            "word": "height",
+            "word_type": "[名]",
+            "meaning": "高度"
+        },
+        {
+            "id": 539,
+            "word": "helicopter",
+            "word_type": "[名]",
+            "meaning": "直昇機"
+        },
+        {
+            "id": 540,
+            "word": "hero",
+            "word_type": "[名]",
+            "meaning": "英雄"
+        },
+        {
+            "id": 541,
+            "word": "highway",
+            "word_type": "[名]",
+            "meaning": "公路;幹道"
+        },
+        {
+            "id": 542,
+            "word": "hip",
+            "word_type": "[名]",
+            "meaning": "臀部"
+        },
+        {
+            "id": 543,
+            "word": "hire",
+            "word_type": "[動]",
+            "meaning": "雇用"
+        },
+        {
+            "id": 544,
+            "word": "hole",
+            "word_type": "[名]",
+            "meaning": "洞"
+        },
+        {
+            "id": 545,
+            "word": "homesick",
+            "word_type": "[形]",
+            "meaning": "想家的"
+        },
+        {
+            "id": 546,
+            "word": "honesty",
+            "word_type": "[名]",
+            "meaning": "誠實"
+        },
+        {
+            "id": 547,
+            "word": "horrible",
+            "word_type": "[形]",
+            "meaning": "可怕的"
+        },
+        {
+            "id": 548,
+            "word": "host",
+            "word_type": "[名]",
+            "meaning": "主人"
+        },
+        {
+            "id": 549,
+            "word": "housework",
+            "word_type": "[名]",
+            "meaning": "家務"
+        },
+        {
+            "id": 550,
+            "word": "hug",
+            "word_type": "[動]",
+            "meaning": "摟抱"
+        },
+        {
+            "id": 551,
+            "word": "human",
+            "word_type": "[形][名]",
+            "meaning": "人類的;人"
+        },
+        {
+            "id": 552,
+            "word": "humble",
+            "word_type": "[形]",
+            "meaning": "謙恭的;微賤的"
+        },
+        {
+            "id": 553,
+            "word": "humid",
+            "word_type": "[形]",
+            "meaning": "潮濕的"
+        },
+        {
+            "id": 554,
+            "word": "humor",
+            "word_type": "[名]",
+            "meaning": "幽默"
+        },
+        {
+            "id": 555,
+            "word": "humorous",
+            "word_type": "[形]",
+            "meaning": "幽默的"
+        },
+        {
+            "id": 556,
+            "word": "hunger",
+            "word_type": "[名]",
+            "meaning": "饑餓"
+        },
+        {
+            "id": 557,
+            "word": "hunter",
+            "word_type": "[名]",
+            "meaning": "獵人"
+        },
+        {
+            "id": 558,
+            "word": "ignore",
+            "word_type": "[動]",
+            "meaning": "不理睬"
+        },
+        {
+            "id": 559,
+            "word": "ill",
+            "word_type": "[形][名]",
+            "meaning": "生病的;不幸;禍害"
+        },
+        {
+            "id": 560,
+            "word": "imagine",
+            "word_type": "[動]",
+            "meaning": "想像"
+        },
+        {
+            "id": 561,
+            "word": "impolite",
+            "word_type": "[形]",
+            "meaning": "沒禮貌的"
+        },
+        {
+            "id": 562,
+            "word": "importance",
+            "word_type": "[名]",
+            "meaning": "重要性"
+        },
+        {
+            "id": 563,
+            "word": "impossible",
+            "word_type": "[形]",
+            "meaning": "不可能的"
+        },
+        {
+            "id": 564,
+            "word": "improve",
+            "word_type": "[動]",
+            "meaning": "改善"
+        },
+        {
+            "id": 565,
+            "word": "include",
+            "word_type": "[動]",
+            "meaning": "包含"
+        },
+        {
+            "id": 566,
+            "word": "income",
+            "word_type": "[名]",
+            "meaning": "收入"
+        },
+        {
+            "id": 567,
+            "word": "increase",
+            "word_type": "[動]",
+            "meaning": "增加"
+        },
+        {
+            "id": 568,
+            "word": "independent",
+            "word_type": "[形]",
+            "meaning": "獨立的"
+        },
+        {
+            "id": 569,
+            "word": "indicate",
+            "word_type": "[動]",
+            "meaning": "指出"
+        },
+        {
+            "id": 570,
+            "word": "influence",
+            "word_type": "[名]",
+            "meaning": "影響"
+        },
+        {
+            "id": 571,
+            "word": "information",
+            "word_type": "[名]",
+            "meaning": "資訊"
+        },
+        {
+            "id": 572,
+            "word": "ink",
+            "word_type": "[名]",
+            "meaning": "墨水"
+        },
+        {
+            "id": 573,
+            "word": "insist",
+            "word_type": "[動]",
+            "meaning": "堅持"
+        },
+        {
+            "id": 574,
+            "word": "inspire",
+            "word_type": "[動]",
+            "meaning": "鼓舞"
+        },
+        {
+            "id": 575,
+            "word": "instant",
+            "word_type": "[形][名]",
+            "meaning": "即時的;瞬間"
+        },
+        {
+            "id": 576,
+            "word": "instrument",
+            "word_type": "[名]",
+            "meaning": "儀器"
+        },
+        {
+            "id": 577,
+            "word": "intelligent",
+            "word_type": "[形]",
+            "meaning": "有才智的"
+        },
+        {
+            "id": 578,
+            "word": "international",
+            "word_type": "[形]",
+            "meaning": "國際的"
+        },
+        {
+            "id": 579,
+            "word": "interrupt",
+            "word_type": "[動]",
+            "meaning": "打斷(談話和工作等)"
+        },
+        {
+            "id": 580,
+            "word": "introduce",
+            "word_type": "[動]",
+            "meaning": "介紹"
+        },
+        {
+            "id": 581,
+            "word": "invent",
+            "word_type": "[動]",
+            "meaning": "發明"
+        },
+        {
+            "id": 582,
+            "word": "invitation",
+            "word_type": "[名]",
+            "meaning": "邀請"
+        },
+        {
+            "id": 583,
+            "word": "iron",
+            "word_type": "[動][名]",
+            "meaning": "熨燙;鐵;熨斗"
+        },
+        {
+            "id": 584,
+            "word": "jam",
+            "word_type": "[動][名]",
+            "meaning": "擠;夾傷;果醬;擁塞"
+        },
+        {
+            "id": 585,
+            "word": "jazz",
+            "word_type": "[名]",
+            "meaning": "爵士樂"
+        },
+        {
+            "id": 586,
+            "word": "jealous",
+            "word_type": "[形]",
+            "meaning": "嫉妒的"
+        },
+        {
+            "id": 587,
+            "word": "jeep",
+            "word_type": "[名]",
+            "meaning": "吉普車"
+        },
+        {
+            "id": 588,
+            "word": "joke",
+            "word_type": "[動][名]",
+            "meaning": "開玩笑;笑話"
+        },
+        {
+            "id": 589,
+            "word": "journalist",
+            "word_type": "[名]",
+            "meaning": "新聞工作者"
+        },
+        {
+            "id": 590,
+            "word": "judge",
+            "word_type": "[動][名]",
+            "meaning": "判斷;審判;法官"
+        },
+        {
+            "id": 591,
+            "word": "ketchup",
+            "word_type": "[名]",
+            "meaning": "番茄醬"
+        },
+        {
+            "id": 592,
+            "word": "kilometer",
+            "word_type": "[名]",
+            "meaning": "公里"
+        },
+        {
+            "id": 593,
+            "word": "kindergarten",
+            "word_type": "[名]",
+            "meaning": "幼稚園"
+        },
+        {
+            "id": 594,
+            "word": "kingdom",
+            "word_type": "[名]",
+            "meaning": "王國"
+        },
+        {
+            "id": 595,
+            "word": "kitten",
+            "word_type": "[名]",
+            "meaning": "小貓"
+        },
+        {
+            "id": 596,
+            "word": "lack",
+            "word_type": "[動][名]",
+            "meaning": "缺乏;缺乏"
+        },
+        {
+            "id": 597,
+            "word": "lady",
+            "word_type": "[名]",
+            "meaning": "淑女"
+        },
+        {
+            "id": 598,
+            "word": "lamb",
+            "word_type": "[名]",
+            "meaning": "小羊"
+        },
+        {
+            "id": 599,
+            "word": "latter",
+            "word_type": "[形]",
+            "meaning": "後者"
+        },
+        {
+            "id": 600,
+            "word": "law",
+            "word_type": "[名]",
+            "meaning": "法律"
+        },
+        {
+            "id": 601,
+            "word": "lay",
+            "word_type": "[動]",
+            "meaning": "置放;產卵"
+        },
+        {
+            "id": 602,
+            "word": "leaf",
+            "word_type": "[名]",
+            "meaning": "樹葉"
+        },
+        {
+            "id": 603,
+            "word": "level",
+            "word_type": "[名]",
+            "meaning": "水平線"
+        },
+        {
+            "id": 604,
+            "word": "lick",
+            "word_type": "[動]",
+            "meaning": "舔"
+        },
+        {
+            "id": 605,
+            "word": "lift",
+            "word_type": "[動]",
+            "meaning": "舉起"
+        },
+        {
+            "id": 606,
+            "word": "lightning",
+            "word_type": "[名]",
+            "meaning": "閃電"
+        },
+        {
+            "id": 607,
+            "word": "likely",
+            "word_type": "[形]",
+            "meaning": "有可能的"
+        },
+        {
+            "id": 608,
+            "word": "limit",
+            "word_type": "[動][名]",
+            "meaning": "限定;限度"
+        },
+        {
+            "id": 609,
+            "word": "link",
+            "word_type": "[動][名]",
+            "meaning": "聯繫;環節"
+        },
+        {
+            "id": 610,
+            "word": "liquid",
+            "word_type": "[名]",
+            "meaning": "液體"
+        },
+        {
+            "id": 611,
+            "word": "liter",
+            "word_type": "[名]",
+            "meaning": "公升"
+        },
+        {
+            "id": 612,
+            "word": "loaf",
+            "word_type": "[名]",
+            "meaning": "一條(麵包)"
+        },
+        {
+            "id": 613,
+            "word": "local",
+            "word_type": "[形][名]",
+            "meaning": "本地的;當地居民"
+        },
+        {
+            "id": 614,
+            "word": "lock",
+            "word_type": "[動][名]",
+            "meaning": "鎖住;鎖"
+        },
+        {
+            "id": 615,
+            "word": "locker",
+            "word_type": "[名]",
+            "meaning": "(公共場所的)衣物櫃"
+        },
+        {
+            "id": 616,
+            "word": "loser",
+            "word_type": "[名]",
+            "meaning": "輸家"
+        },
+        {
+            "id": 617,
+            "word": "magazine",
+            "word_type": "[名]",
+            "meaning": "雜誌"
+        },
+        {
+            "id": 618,
+            "word": "magician",
+            "word_type": "[名]",
+            "meaning": "魔術師"
+        },
+        {
+            "id": 619,
+            "word": "main",
+            "word_type": "[形]",
+            "meaning": "最主要的"
+        },
+        {
+            "id": 620,
+            "word": "major",
+            "word_type": "[形][名]",
+            "meaning": "較多的;主要的;主修"
+        },
+        {
+            "id": 621,
+            "word": "male",
+            "word_type": "[形][名]",
+            "meaning": "男性的;雄性動物"
+        },
+        {
+            "id": 622,
+            "word": "mall",
+            "word_type": "[名]",
+            "meaning": "大規模購物中心"
+        },
+        {
+            "id": 623,
+            "word": "manager",
+            "word_type": "[名]",
+            "meaning": "經理"
+        },
+        {
+            "id": 624,
+            "word": "mango",
+            "word_type": "[名]",
+            "meaning": "芒果"
+        },
+        {
+            "id": 625,
+            "word": "manner",
+            "word_type": "[名]",
+            "meaning": "舉止;態度"
+        },
+        {
+            "id": 626,
+            "word": "marry",
+            "word_type": "[動]",
+            "meaning": "結婚"
+        },
+        {
+            "id": 627,
+            "word": "marvelous",
+            "word_type": "[形]",
+            "meaning": "了不起的"
+        },
+        {
+            "id": 628,
+            "word": "master",
+            "word_type": "[動][名]",
+            "meaning": "精通;主人"
+        },
+        {
+            "id": 629,
+            "word": "match",
+            "word_type": "[動]",
+            "meaning": "相配"
+        },
+        {
+            "id": 630,
+            "word": "maximum",
+            "word_type": "[形][名]",
+            "meaning": "最大限度的;最高極限"
+        },
+        {
+            "id": 631,
+            "word": "measure",
+            "word_type": "[動][名]",
+            "meaning": "計量;尺寸"
+        },
+        {
+            "id": 632,
+            "word": "mechanic",
+            "word_type": "[名]",
+            "meaning": "技工"
+        },
+        {
+            "id": 633,
+            "word": "member",
+            "word_type": "[名]",
+            "meaning": "會員"
+        },
+        {
+            "id": 634,
+            "word": "memory",
+            "word_type": "[名]",
+            "meaning": "記憶"
+        },
+        {
+            "id": 635,
+            "word": "men's",
+            "word_type": "[名]",
+            "meaning": "room 男廁"
+        },
+        {
+            "id": 636,
+            "word": "message",
+            "word_type": "[名]",
+            "meaning": "消息;音信"
+        },
+        {
+            "id": 637,
+            "word": "metal",
+            "word_type": "[名]",
+            "meaning": "金屬"
+        },
+        {
+            "id": 638,
+            "word": "meter",
+            "word_type": "[名]",
+            "meaning": "公尺;計量器"
+        },
+        {
+            "id": 639,
+            "word": "method",
+            "word_type": "[名]",
+            "meaning": "方法"
+        },
+        {
+            "id": 640,
+            "word": "microwave",
+            "word_type": "[名]",
+            "meaning": "微波爐"
+        },
+        {
+            "id": 641,
+            "word": "middle",
+            "word_type": "[形][名]",
+            "meaning": "中間的;中央"
+        },
+        {
+            "id": 642,
+            "word": "midnight",
+            "word_type": "[名]",
+            "meaning": "午夜"
+        },
+        {
+            "id": 643,
+            "word": "minor",
+            "word_type": "[形][名]",
+            "meaning": "較小的;較次要的;未成年者;副科"
+        },
+        {
+            "id": 644,
+            "word": "minus",
+            "word_type": "[介][名]",
+            "meaning": "減;負號"
+        },
+        {
+            "id": 645,
+            "word": "mirror",
+            "word_type": "[名]",
+            "meaning": "鏡子"
+        },
+        {
+            "id": 646,
+            "word": "mix",
+            "word_type": "[動]",
+            "meaning": "混合"
+        },
+        {
+            "id": 647,
+            "word": "model",
+            "word_type": "[名]",
+            "meaning": "模型;模特兒"
+        },
+        {
+            "id": 648,
+            "word": "monster",
+            "word_type": "[名]",
+            "meaning": "怪物"
+        },
+        {
+            "id": 649,
+            "word": "mosquito",
+            "word_type": "[名]",
+            "meaning": "蚊子"
+        },
+        {
+            "id": 650,
+            "word": "motion",
+            "word_type": "[名]",
+            "meaning": "移動"
+        },
+        {
+            "id": 651,
+            "word": "movement",
+            "word_type": "[名]",
+            "meaning": "動作"
+        },
+        {
+            "id": 652,
+            "word": "musician",
+            "word_type": "[名]",
+            "meaning": "音樂家"
+        },
+        {
+            "id": 653,
+            "word": "napkin",
+            "word_type": "[名]",
+            "meaning": "餐巾"
+        },
+        {
+            "id": 654,
+            "word": "narrow",
+            "word_type": "[形]",
+            "meaning": "窄的"
+        },
+        {
+            "id": 655,
+            "word": "nation",
+            "word_type": "[名]",
+            "meaning": "國家"
+        },
+        {
+            "id": 656,
+            "word": "natural",
+            "word_type": "[形]",
+            "meaning": "天然的"
+        },
+        {
+            "id": 657,
+            "word": "naughty",
+            "word_type": "[形]",
+            "meaning": "頑皮的"
+        },
+        {
+            "id": 658,
+            "word": "necessary",
+            "word_type": "[形]",
+            "meaning": "需要的"
+        },
+        {
+            "id": 659,
+            "word": "necklace",
+            "word_type": "[名]",
+            "meaning": "項鍊"
+        },
+        {
+            "id": 660,
+            "word": "needle",
+            "word_type": "[名]",
+            "meaning": "針"
+        },
+        {
+            "id": 661,
+            "word": "negative",
+            "word_type": "[形]",
+            "meaning": "否定的;負面的"
+        },
+        {
+            "id": 662,
+            "word": "neither",
+            "word_type": "[形][副][連][代]",
+            "meaning": "兩者都不;也不;也不;兩者都不"
+        },
+        {
+            "id": 663,
+            "word": "nephew",
+            "word_type": "[名]",
+            "meaning": "侄子;外甥"
+        },
+        {
+            "id": 664,
+            "word": "nervous",
+            "word_type": "[形]",
+            "meaning": "緊張的"
+        },
+        {
+            "id": 665,
+            "word": "nest",
+            "word_type": "[名]",
+            "meaning": "巢"
+        },
+        {
+            "id": 666,
+            "word": "net",
+            "word_type": "[名]",
+            "meaning": "網子"
+        },
+        {
+            "id": 667,
+            "word": "niece",
+            "word_type": "[名]",
+            "meaning": "侄女;外甥女"
+        },
+        {
+            "id": 668,
+            "word": "noisy",
+            "word_type": "[形]",
+            "meaning": "喧鬧的"
+        },
+        {
+            "id": 669,
+            "word": "none",
+            "word_type": "[代]",
+            "meaning": "毫無;無一(人或物)"
+        },
+        {
+            "id": 670,
+            "word": "nor",
+            "word_type": "[連]",
+            "meaning": "亦不"
+        },
+        {
+            "id": 671,
+            "word": "novel",
+            "word_type": "[名]",
+            "meaning": "小說"
+        },
+        {
+            "id": 672,
+            "word": "nut",
+            "word_type": "[名]",
+            "meaning": "核果"
+        },
+        {
+            "id": 673,
+            "word": "obey",
+            "word_type": "[動]",
+            "meaning": "服從"
+        },
+        {
+            "id": 674,
+            "word": "object",
+            "word_type": "[動][名]",
+            "meaning": "反對;物件"
+        },
+        {
+            "id": 675,
+            "word": "ocean",
+            "word_type": "[名]",
+            "meaning": "海洋"
+        },
+        {
+            "id": 676,
+            "word": "offer",
+            "word_type": "[動]",
+            "meaning": "提供"
+        },
+        {
+            "id": 677,
+            "word": "oneself",
+            "word_type": "[代]",
+            "meaning": "自己"
+        },
+        {
+            "id": 678,
+            "word": "onion",
+            "word_type": "[名]",
+            "meaning": "洋蔥"
+        },
+        {
+            "id": 679,
+            "word": "operation",
+            "word_type": "[名]",
+            "meaning": "手術;操作"
+        },
+        {
+            "id": 680,
+            "word": "opinion",
+            "word_type": "[名]",
+            "meaning": "意見"
+        },
+        {
+            "id": 681,
+            "word": "ordinary",
+            "word_type": "[形]",
+            "meaning": "平常的"
+        },
+        {
+            "id": 682,
+            "word": "oven",
+            "word_type": "[名]",
+            "meaning": "烤箱"
+        },
+        {
+            "id": 683,
+            "word": "overseas",
+            "word_type": "[形][副]",
+            "meaning": "國外的;在海外"
+        },
+        {
+            "id": 684,
+            "word": "overweight",
+            "word_type": "[形]",
+            "meaning": "超重的;過重的"
+        },
+        {
+            "id": 685,
+            "word": "owner",
+            "word_type": "[名]",
+            "meaning": "物主"
+        },
+        {
+            "id": 686,
+            "word": "pain",
+            "word_type": "[名]",
+            "meaning": "疼痛;痛苦"
+        },
+        {
+            "id": 687,
+            "word": "painful",
+            "word_type": "[形]",
+            "meaning": "痛的"
+        },
+        {
+            "id": 688,
+            "word": "painter",
+            "word_type": "[名]",
+            "meaning": "油漆匠;畫家"
+        },
+        {
+            "id": 689,
+            "word": "pajamas",
+            "word_type": "[名]",
+            "meaning": "睡衣"
+        },
+        {
+            "id": 690,
+            "word": "pale",
+            "word_type": "[形]",
+            "meaning": "蒼白的;黯淡的"
+        },
+        {
+            "id": 691,
+            "word": "pan",
+            "word_type": "[名]",
+            "meaning": "平鍋"
+        },
+        {
+            "id": 692,
+            "word": "panda",
+            "word_type": "[名]",
+            "meaning": "貓熊"
+        },
+        {
+            "id": 693,
+            "word": "pardon",
+            "word_type": "[動]",
+            "meaning": "寬恕"
+        },
+        {
+            "id": 694,
+            "word": "parking",
+            "word_type": "[名]",
+            "meaning": "lot 停車場"
+        },
+        {
+            "id": 695,
+            "word": "parrot",
+            "word_type": "[名]",
+            "meaning": "鸚鵡"
+        },
+        {
+            "id": 696,
+            "word": "partner",
+            "word_type": "[名]",
+            "meaning": "夥伴"
+        },
+        {
+            "id": 697,
+            "word": "passenger",
+            "word_type": "[名]",
+            "meaning": "乘客"
+        },
+        {
+            "id": 698,
+            "word": "path",
+            "word_type": "[名]",
+            "meaning": "小徑;路線"
+        },
+        {
+            "id": 699,
+            "word": "patient",
+            "word_type": "[名]",
+            "meaning": "病人"
+        },
+        {
+            "id": 700,
+            "word": "pattern",
+            "word_type": "[名]",
+            "meaning": "圖案;模式"
+        },
+        {
+            "id": 701,
+            "word": "pause",
+            "word_type": "[動]",
+            "meaning": "中止"
+        },
+        {
+            "id": 702,
+            "word": "peace",
+            "word_type": "[名]",
+            "meaning": "和平"
+        },
+        {
+            "id": 703,
+            "word": "peaceful",
+            "word_type": "[形]",
+            "meaning": "寧靜的;和平的"
+        },
+        {
+            "id": 704,
+            "word": "pepper",
+            "word_type": "[名]",
+            "meaning": "胡椒;辣椒"
+        },
+        {
+            "id": 705,
+            "word": "perfect",
+            "word_type": "[形]",
+            "meaning": "完美的"
+        },
+        {
+            "id": 706,
+            "word": "period",
+            "word_type": "[名]",
+            "meaning": "一段時間;一堂課"
+        },
+        {
+            "id": 707,
+            "word": "personal",
+            "word_type": "[形]",
+            "meaning": "個人的"
+        },
+        {
+            "id": 708,
+            "word": "physics",
+            "word_type": "[名]",
+            "meaning": "物理"
+        },
+        {
+            "id": 709,
+            "word": "pigeon",
+            "word_type": "[名]",
+            "meaning": "鴿子"
+        },
+        {
+            "id": 710,
+            "word": "pile",
+            "word_type": "[動][名]",
+            "meaning": "堆起;一堆"
+        },
+        {
+            "id": 711,
+            "word": "pillow",
+            "word_type": "[名]",
+            "meaning": "枕頭"
+        },
+        {
+            "id": 712,
+            "word": "pineapple",
+            "word_type": "[名]",
+            "meaning": "鳳梨"
+        },
+        {
+            "id": 713,
+            "word": "plain",
+            "word_type": "[形][名]",
+            "meaning": "簡樸的;清楚的;平原"
+        },
+        {
+            "id": 714,
+            "word": "platform",
+            "word_type": "[名]",
+            "meaning": "月台;平台"
+        },
+        {
+            "id": 715,
+            "word": "pleasant",
+            "word_type": "[形]",
+            "meaning": "愉快的;美好的"
+        },
+        {
+            "id": 716,
+            "word": "pleased",
+            "word_type": "[形]",
+            "meaning": "欣喜的"
+        },
+        {
+            "id": 717,
+            "word": "plus",
+            "word_type": "[介][名]",
+            "meaning": "加;正號"
+        },
+        {
+            "id": 718,
+            "word": "poem",
+            "word_type": "[名]",
+            "meaning": "詩"
+        },
+        {
+            "id": 719,
+            "word": "poison",
+            "word_type": "[名]",
+            "meaning": "毒物"
+        },
+        {
+            "id": 720,
+            "word": "pollute",
+            "word_type": "[動]",
+            "meaning": "污染"
+        },
+        {
+            "id": 721,
+            "word": "pollution",
+            "word_type": "[名]",
+            "meaning": "污染"
+        },
+        {
+            "id": 722,
+            "word": "pop",
+            "word_type": "[名]",
+            "meaning": "music 流行音樂"
+        },
+        {
+            "id": 723,
+            "word": "population",
+            "word_type": "[名]",
+            "meaning": "人口"
+        },
+        {
+            "id": 724,
+            "word": "position",
+            "word_type": "[名]",
+            "meaning": "位置"
+        },
+        {
+            "id": 725,
+            "word": "positive",
+            "word_type": "[形]",
+            "meaning": "正面的;確信的"
+        },
+        {
+            "id": 726,
+            "word": "potato",
+            "word_type": "[名]",
+            "meaning": "馬鈴薯"
+        },
+        {
+            "id": 727,
+            "word": "powder",
+            "word_type": "[名]",
+            "meaning": "粉"
+        },
+        {
+            "id": 728,
+            "word": "praise",
+            "word_type": "[動]",
+            "meaning": "讚美"
+        },
+        {
+            "id": 729,
+            "word": "precious",
+            "word_type": "[形]",
+            "meaning": "寶貴的"
+        },
+        {
+            "id": 730,
+            "word": "president",
+            "word_type": "[名]",
+            "meaning": "校長;總統"
+        },
+        {
+            "id": 731,
+            "word": "pressure",
+            "word_type": "[名]",
+            "meaning": "壓力"
+        },
+        {
+            "id": 732,
+            "word": "priest",
+            "word_type": "[名]",
+            "meaning": "牧師;神父"
+        },
+        {
+            "id": 733,
+            "word": "primary",
+            "word_type": "[形]",
+            "meaning": "主要的;初級的"
+        },
+        {
+            "id": 734,
+            "word": "principal",
+            "word_type": "[名]",
+            "meaning": "(中小學)校長"
+        },
+        {
+            "id": 735,
+            "word": "principle",
+            "word_type": "[名]",
+            "meaning": "主義;真諦"
+        },
+        {
+            "id": 736,
+            "word": "print",
+            "word_type": "[動]",
+            "meaning": "印刷;用印刷體寫"
+        },
+        {
+            "id": 737,
+            "word": "printer",
+            "word_type": "[名]",
+            "meaning": "印表機;印刷業者"
+        },
+        {
+            "id": 738,
+            "word": "private",
+            "word_type": "[形]",
+            "meaning": "私人的"
+        },
+        {
+            "id": 739,
+            "word": "produce",
+            "word_type": "[動][名]",
+            "meaning": "製造;出產;農產品"
+        },
+        {
+            "id": 740,
+            "word": "production",
+            "word_type": "[名]",
+            "meaning": "製造;生產"
+        },
+        {
+            "id": 741,
+            "word": "professor",
+            "word_type": "[名]",
+            "meaning": "教授"
+        },
+        {
+            "id": 742,
+            "word": "progress",
+            "word_type": "[名]",
+            "meaning": "進步"
+        },
+        {
+            "id": 743,
+            "word": "project",
+            "word_type": "[名]",
+            "meaning": "計畫"
+        },
+        {
+            "id": 744,
+            "word": "promise",
+            "word_type": "[動]",
+            "meaning": "答應"
+        },
+        {
+            "id": 745,
+            "word": "pronounce",
+            "word_type": "[動]",
+            "meaning": "發...音"
+        },
+        {
+            "id": 746,
+            "word": "protect",
+            "word_type": "[動]",
+            "meaning": "保護"
+        },
+        {
+            "id": 747,
+            "word": "provide",
+            "word_type": "[動]",
+            "meaning": "供應"
+        },
+        {
+            "id": 748,
+            "word": "punish",
+            "word_type": "[動]",
+            "meaning": "處罰"
+        },
+        {
+            "id": 749,
+            "word": "purpose",
+            "word_type": "[名]",
+            "meaning": "目的"
+        },
+        {
+            "id": 750,
+            "word": "purse",
+            "word_type": "[名]",
+            "meaning": "錢包"
+        },
+        {
+            "id": 751,
+            "word": "puzzle",
+            "word_type": "[動][名]",
+            "meaning": "使迷惑;謎"
+        },
+        {
+            "id": 752,
+            "word": "quit",
+            "word_type": "[動]",
+            "meaning": "放棄;離職"
+        },
+        {
+            "id": 753,
+            "word": "railroad",
+            "word_type": "[名]",
+            "meaning": "鐵路"
+        },
+        {
+            "id": 754,
+            "word": "raincoat",
+            "word_type": "[名]",
+            "meaning": "雨衣"
+        },
+        {
+            "id": 755,
+            "word": "rare",
+            "word_type": "[形]",
+            "meaning": "罕見的"
+        },
+        {
+            "id": 756,
+            "word": "rather",
+            "word_type": "[副]",
+            "meaning": "寧可;頗為"
+        },
+        {
+            "id": 757,
+            "word": "reach",
+            "word_type": "[動]",
+            "meaning": "到;伸出"
+        },
+        {
+            "id": 758,
+            "word": "realize",
+            "word_type": "[動]",
+            "meaning": "認知;實現"
+        },
+        {
+            "id": 759,
+            "word": "reason",
+            "word_type": "[名]",
+            "meaning": "理由"
+        },
+        {
+            "id": 760,
+            "word": "receive",
+            "word_type": "[動]",
+            "meaning": "收到"
+        },
+        {
+            "id": 761,
+            "word": "record",
+            "word_type": "[動][名]",
+            "meaning": "記錄;錄音;記錄;唱片"
+        },
+        {
+            "id": 762,
+            "word": "recover",
+            "word_type": "[動]",
+            "meaning": "尋回;恢復"
+        },
+        {
+            "id": 763,
+            "word": "rectangle",
+            "word_type": "[名]",
+            "meaning": "長方形"
+        },
+        {
+            "id": 764,
+            "word": "recycle",
+            "word_type": "[動]",
+            "meaning": "回收"
+        },
+        {
+            "id": 765,
+            "word": "refuse",
+            "word_type": "[動]",
+            "meaning": "拒絕"
+        },
+        {
+            "id": 766,
+            "word": "regret",
+            "word_type": "[動]",
+            "meaning": "懊悔"
+        },
+        {
+            "id": 767,
+            "word": "regular",
+            "word_type": "[形]",
+            "meaning": "通常的"
+        },
+        {
+            "id": 768,
+            "word": "reject",
+            "word_type": "[動]",
+            "meaning": "拒絕"
+        },
+        {
+            "id": 769,
+            "word": "relative",
+            "word_type": "[形][名]",
+            "meaning": "有關的;相對的;親戚"
+        },
+        {
+            "id": 770,
+            "word": "remind",
+            "word_type": "[動]",
+            "meaning": "提醒"
+        },
+        {
+            "id": 771,
+            "word": "rent",
+            "word_type": "[動]",
+            "meaning": "租"
+        },
+        {
+            "id": 772,
+            "word": "repair",
+            "word_type": "[動][名]",
+            "meaning": "修理;修理"
+        },
+        {
+            "id": 773,
+            "word": "report",
+            "word_type": "[名]",
+            "meaning": "報告"
+        },
+        {
+            "id": 774,
+            "word": "respect",
+            "word_type": "[動][名]",
+            "meaning": "尊敬;尊敬"
+        },
+        {
+            "id": 775,
+            "word": "responsible",
+            "word_type": "[形]",
+            "meaning": "負責任的"
+        },
+        {
+            "id": 776,
+            "word": "result",
+            "word_type": "[名]",
+            "meaning": "結果"
+        },
+        {
+            "id": 777,
+            "word": "return",
+            "word_type": "[動]",
+            "meaning": "回;還"
+        },
+        {
+            "id": 778,
+            "word": "review",
+            "word_type": "[動][名]",
+            "meaning": "溫習;回顧;復習"
+        },
+        {
+            "id": 779,
+            "word": "revise",
+            "word_type": "[動]",
+            "meaning": "校訂;更改"
+        },
+        {
+            "id": 780,
+            "word": "rob",
+            "word_type": "[動]",
+            "meaning": "搶劫"
+        },
+        {
+            "id": 781,
+            "word": "role",
+            "word_type": "[名]",
+            "meaning": "角色"
+        },
+        {
+            "id": 782,
+            "word": "roof",
+            "word_type": "[名]",
+            "meaning": "屋頂"
+        },
+        {
+            "id": 783,
+            "word": "root",
+            "word_type": "[名]",
+            "meaning": "根"
+        },
+        {
+            "id": 784,
+            "word": "rub",
+            "word_type": "[動]",
+            "meaning": "磨擦"
+        },
+        {
+            "id": 785,
+            "word": "rubber",
+            "word_type": "[名]",
+            "meaning": "橡膠"
+        },
+        {
+            "id": 786,
+            "word": "rude",
+            "word_type": "[形]",
+            "meaning": "無禮的"
+        },
+        {
+            "id": 787,
+            "word": "ruin",
+            "word_type": "[動]",
+            "meaning": "毀滅"
+        },
+        {
+            "id": 788,
+            "word": "rush",
+            "word_type": "[動]",
+            "meaning": "催促;急送"
+        },
+        {
+            "id": 789,
+            "word": "safety",
+            "word_type": "[名]",
+            "meaning": "安全"
+        },
+        {
+            "id": 790,
+            "word": "sailor",
+            "word_type": "[名]",
+            "meaning": "水手"
+        },
+        {
+            "id": 791,
+            "word": "sample",
+            "word_type": "[名]",
+            "meaning": "樣品"
+        },
+        {
+            "id": 792,
+            "word": "sand",
+            "word_type": "[名]",
+            "meaning": "沙"
+        },
+        {
+            "id": 793,
+            "word": "satisfy",
+            "word_type": "[動]",
+            "meaning": "使滿意"
+        },
+        {
+            "id": 794,
+            "word": "saucer",
+            "word_type": "[名]",
+            "meaning": "淺碟"
+        },
+        {
+            "id": 795,
+            "word": "scarf",
+            "word_type": "[名]",
+            "meaning": "圍巾"
+        },
+        {
+            "id": 796,
+            "word": "scene",
+            "word_type": "[名]",
+            "meaning": "景色;場面"
+        },
+        {
+            "id": 797,
+            "word": "scenery",
+            "word_type": "[名]",
+            "meaning": "風景"
+        },
+        {
+            "id": 798,
+            "word": "scientist",
+            "word_type": "[名]",
+            "meaning": "科學家"
+        },
+        {
+            "id": 799,
+            "word": "score",
+            "word_type": "[動][名]",
+            "meaning": "得分;得分;二十;刻痕;樂譜"
+        },
+        {
+            "id": 800,
+            "word": "seafood",
+            "word_type": "[名]",
+            "meaning": "海產食品"
+        },
+        {
+            "id": 801,
+            "word": "search",
+            "word_type": "[動]",
+            "meaning": "搜尋;搜查"
+        },
+        {
+            "id": 802,
+            "word": "secondary",
+            "word_type": "[形]",
+            "meaning": "第二的;次要的"
+        },
+        {
+            "id": 803,
+            "word": "secret",
+            "word_type": "[名]",
+            "meaning": "秘密"
+        },
+        {
+            "id": 804,
+            "word": "section",
+            "word_type": "[名]",
+            "meaning": "節;斷面"
+        },
+        {
+            "id": 805,
+            "word": "seek",
+            "word_type": "[動]",
+            "meaning": "尋覓"
+        },
+        {
+            "id": 806,
+            "word": "seem",
+            "word_type": "[動]",
+            "meaning": "似乎是"
+        },
+        {
+            "id": 807,
+            "word": "select",
+            "word_type": "[動]",
+            "meaning": "挑選"
+        },
+        {
+            "id": 808,
+            "word": "selfish",
+            "word_type": "[形]",
+            "meaning": "自私的"
+        },
+        {
+            "id": 809,
+            "word": "semester",
+            "word_type": "[名]",
+            "meaning": "學期"
+        },
+        {
+            "id": 810,
+            "word": "sense",
+            "word_type": "[名]",
+            "meaning": "感官;官能"
+        },
+        {
+            "id": 811,
+            "word": "servant",
+            "word_type": "[名]",
+            "meaning": "雇工"
+        },
+        {
+            "id": 812,
+            "word": "serve",
+            "word_type": "[動]",
+            "meaning": "服務"
+        },
+        {
+            "id": 813,
+            "word": "service",
+            "word_type": "[名]",
+            "meaning": "服務"
+        },
+        {
+            "id": 814,
+            "word": "sheet",
+            "word_type": "[名]",
+            "meaning": "一張(紙);床單"
+        },
+        {
+            "id": 815,
+            "word": "shelf",
+            "word_type": "[名]",
+            "meaning": "架子"
+        },
+        {
+            "id": 816,
+            "word": "shoot",
+            "word_type": "[動]",
+            "meaning": "注射;射擊;拍攝"
+        },
+        {
+            "id": 817,
+            "word": "shore",
+            "word_type": "[名]",
+            "meaning": "岸邊"
+        },
+        {
+            "id": 818,
+            "word": "shower",
+            "word_type": "[動][名]",
+            "meaning": "傾注;洗淋浴;陣雨;淋浴"
+        },
+        {
+            "id": 819,
+            "word": "shrimp",
+            "word_type": "[名]",
+            "meaning": "蝦子"
+        },
+        {
+            "id": 820,
+            "word": "shut",
+            "word_type": "[動]",
+            "meaning": "關閉"
+        },
+        {
+            "id": 821,
+            "word": "silence",
+            "word_type": "[名]",
+            "meaning": "寂靜"
+        },
+        {
+            "id": 822,
+            "word": "silent",
+            "word_type": "[形]",
+            "meaning": "寂靜的"
+        },
+        {
+            "id": 823,
+            "word": "silly",
+            "word_type": "[形]",
+            "meaning": "傻的;無聊的"
+        },
+        {
+            "id": 824,
+            "word": "silver",
+            "word_type": "[形][名]",
+            "meaning": "銀的;銀白的;銀"
+        },
+        {
+            "id": 825,
+            "word": "similar",
+            "word_type": "[形]",
+            "meaning": "相似的"
+        },
+        {
+            "id": 826,
+            "word": "sincere",
+            "word_type": "[形]",
+            "meaning": "誠懇的"
+        },
+        {
+            "id": 827,
+            "word": "single",
+            "word_type": "[形][名]",
+            "meaning": "單一的;獨身的;單的;一壘安打"
+        },
+        {
+            "id": 828,
+            "word": "sink",
+            "word_type": "[動][名]",
+            "meaning": "沉下;陷於;洗物槽"
+        },
+        {
+            "id": 829,
+            "word": "ski",
+            "word_type": "[動][名]",
+            "meaning": "滑雪;滑雪屐"
+        },
+        {
+            "id": 830,
+            "word": "skill",
+            "word_type": "[名]",
+            "meaning": "技能"
+        },
+        {
+            "id": 831,
+            "word": "skillful",
+            "word_type": "[形]",
+            "meaning": "有技術的"
+        },
+        {
+            "id": 832,
+            "word": "skin",
+            "word_type": "[名]",
+            "meaning": "皮膚"
+        },
+        {
+            "id": 833,
+            "word": "skinny",
+            "word_type": "[形]",
+            "meaning": "很瘦的"
+        },
+        {
+            "id": 834,
+            "word": "sleepy",
+            "word_type": "[形]",
+            "meaning": "想睡的"
+        },
+        {
+            "id": 835,
+            "word": "slender",
+            "word_type": "[形]",
+            "meaning": "纖細的"
+        },
+        {
+            "id": 836,
+            "word": "slice",
+            "word_type": "[動][名]",
+            "meaning": "切成薄片;薄片"
+        },
+        {
+            "id": 837,
+            "word": "slippers",
+            "word_type": "[名]",
+            "meaning": "拖鞋"
+        },
+        {
+            "id": 838,
+            "word": "snail",
+            "word_type": "[名]",
+            "meaning": "蝸牛"
+        },
+        {
+            "id": 839,
+            "word": "sneakers",
+            "word_type": "[名]",
+            "meaning": "球鞋"
+        },
+        {
+            "id": 840,
+            "word": "sneaky",
+            "word_type": "[形]",
+            "meaning": "鬼鬼祟祟的"
+        },
+        {
+            "id": 841,
+            "word": "soap",
+            "word_type": "[名]",
+            "meaning": "肥皂"
+        },
+        {
+            "id": 842,
+            "word": "social",
+            "word_type": "[形]",
+            "meaning": "社會的;交際的"
+        },
+        {
+            "id": 843,
+            "word": "society",
+            "word_type": "[名]",
+            "meaning": "社會"
+        },
+        {
+            "id": 844,
+            "word": "soda",
+            "word_type": "[名]",
+            "meaning": "蘇打;汽水"
+        },
+        {
+            "id": 845,
+            "word": "soft",
+            "word_type": "[名]",
+            "meaning": "drink 冷飲"
+        },
+        {
+            "id": 846,
+            "word": "softball",
+            "word_type": "[名]",
+            "meaning": "壘球"
+        },
+        {
+            "id": 847,
+            "word": "solve",
+            "word_type": "[動]",
+            "meaning": "解決"
+        },
+        {
+            "id": 848,
+            "word": "soul",
+            "word_type": "[名]",
+            "meaning": "靈魂"
+        },
+        {
+            "id": 849,
+            "word": "sour",
+            "word_type": "[形]",
+            "meaning": "酸的"
+        },
+        {
+            "id": 850,
+            "word": "soy",
+            "word_type": "[名]",
+            "meaning": "sauce 醬油"
+        },
+        {
+            "id": 851,
+            "word": "speaker",
+            "word_type": "[名]",
+            "meaning": "演講者;揚聲器"
+        },
+        {
+            "id": 852,
+            "word": "speech",
+            "word_type": "[名]",
+            "meaning": "言論;演講"
+        },
+        {
+            "id": 853,
+            "word": "speed",
+            "word_type": "[名]",
+            "meaning": "速度"
+        },
+        {
+            "id": 854,
+            "word": "spirit",
+            "word_type": "[名]",
+            "meaning": "精神"
+        },
+        {
+            "id": 855,
+            "word": "spot",
+            "word_type": "[動][名]",
+            "meaning": "沾污;察出;斑點;場所"
+        },
+        {
+            "id": 856,
+            "word": "spread",
+            "word_type": "[動]",
+            "meaning": "展開"
+        },
+        {
+            "id": 857,
+            "word": "state",
+            "word_type": "[動][名]",
+            "meaning": "陳述;狀態;州"
+        },
+        {
+            "id": 858,
+            "word": "stationery",
+            "word_type": "[名]",
+            "meaning": "文具"
+        },
+        {
+            "id": 859,
+            "word": "steal",
+            "word_type": "[動]",
+            "meaning": "偷竊"
+        },
+        {
+            "id": 860,
+            "word": "steam",
+            "word_type": "[動][名]",
+            "meaning": "蒸;蒸氣"
+        },
+        {
+            "id": 861,
+            "word": "step",
+            "word_type": "[名]",
+            "meaning": "步;臺階"
+        },
+        {
+            "id": 862,
+            "word": "stingy",
+            "word_type": "[形]",
+            "meaning": "小氣的"
+        },
+        {
+            "id": 863,
+            "word": "stomachache",
+            "word_type": "[名]",
+            "meaning": "胃痛"
+        },
+        {
+            "id": 864,
+            "word": "stone",
+            "word_type": "[名]",
+            "meaning": "石頭"
+        },
+        {
+            "id": 865,
+            "word": "storm",
+            "word_type": "[動][名]",
+            "meaning": "猛攻;暴風雨"
+        },
+        {
+            "id": 866,
+            "word": "stove",
+            "word_type": "[名]",
+            "meaning": "爐灶"
+        },
+        {
+            "id": 867,
+            "word": "stream",
+            "word_type": "[動][名]",
+            "meaning": "流;蜂擁而進;溪流"
+        },
+        {
+            "id": 868,
+            "word": "strike",
+            "word_type": "[動][名]",
+            "meaning": "打擊;(鐘)敲響;攻擊;罷工"
+        },
+        {
+            "id": 869,
+            "word": "style",
+            "word_type": "[名]",
+            "meaning": "時尚;風格;文體"
+        },
+        {
+            "id": 870,
+            "word": "subway",
+            "word_type": "[名]",
+            "meaning": "地鐵"
+        },
+        {
+            "id": 871,
+            "word": "succeed",
+            "word_type": "[動]",
+            "meaning": "成功"
+        },
+        {
+            "id": 872,
+            "word": "success",
+            "word_type": "[名]",
+            "meaning": "成功"
+        },
+        {
+            "id": 873,
+            "word": "such",
+            "word_type": "[形]",
+            "meaning": "如此的"
+        },
+        {
+            "id": 874,
+            "word": "suggest",
+            "word_type": "[動]",
+            "meaning": "建議"
+        },
+        {
+            "id": 875,
+            "word": "suit",
+            "word_type": "[名]",
+            "meaning": "一套衣服;訴訟"
+        },
+        {
+            "id": 876,
+            "word": "super",
+            "word_type": "[形]",
+            "meaning": "超級的"
+        },
+        {
+            "id": 877,
+            "word": "supper",
+            "word_type": "[名]",
+            "meaning": "晚餐"
+        },
+        {
+            "id": 878,
+            "word": "support",
+            "word_type": "[動][名]",
+            "meaning": "支持;支持"
+        },
+        {
+            "id": 879,
+            "word": "survive",
+            "word_type": "[動]",
+            "meaning": "在...之後仍然活著"
+        },
+        {
+            "id": 880,
+            "word": "swallow",
+            "word_type": "[動][名]",
+            "meaning": "吞嚥;吞嚥;燕子"
+        },
+        {
+            "id": 881,
+            "word": "swan",
+            "word_type": "[名]",
+            "meaning": "天鵝"
+        },
+        {
+            "id": 882,
+            "word": "sweep",
+            "word_type": "[動][名]",
+            "meaning": "掃;掃除"
+        },
+        {
+            "id": 883,
+            "word": "swimsuit",
+            "word_type": "[名]",
+            "meaning": "泳衣"
+        },
+        {
+            "id": 884,
+            "word": "symbol",
+            "word_type": "[名]",
+            "meaning": "符號;象徵"
+        },
+        {
+            "id": 885,
+            "word": "system",
+            "word_type": "[名]",
+            "meaning": "系統"
+        },
+        {
+            "id": 886,
+            "word": "table",
+            "word_type": "[名]",
+            "meaning": "tennis 乒乓球"
+        },
+        {
+            "id": 887,
+            "word": "talent",
+            "word_type": "[名]",
+            "meaning": "天才"
+        },
+        {
+            "id": 888,
+            "word": "talkative",
+            "word_type": "[形]",
+            "meaning": "好說話的"
+        },
+        {
+            "id": 889,
+            "word": "tangerine",
+            "word_type": "[名]",
+            "meaning": "橘子"
+        },
+        {
+            "id": 890,
+            "word": "tank",
+            "word_type": "[名]",
+            "meaning": "槽;坦克"
+        },
+        {
+            "id": 891,
+            "word": "teapot",
+            "word_type": "[名]",
+            "meaning": "茶壺"
+        },
+        {
+            "id": 892,
+            "word": "tear",
+            "word_type": "[動][名]",
+            "meaning": "撕;眼淚"
+        },
+        {
+            "id": 893,
+            "word": "temperature",
+            "word_type": "[名]",
+            "meaning": "溫度"
+        },
+        {
+            "id": 894,
+            "word": "tent",
+            "word_type": "[名]",
+            "meaning": "帳篷"
+        },
+        {
+            "id": 895,
+            "word": "term",
+            "word_type": "[名]",
+            "meaning": "術語;學期"
+        },
+        {
+            "id": 896,
+            "word": "terrific",
+            "word_type": "[形]",
+            "meaning": "非常好的;可怕的"
+        },
+        {
+            "id": 897,
+            "word": "textbook",
+            "word_type": "[名]",
+            "meaning": "教科書"
+        },
+        {
+            "id": 898,
+            "word": "Thanksgiving",
+            "word_type": "[名]",
+            "meaning": "感恩節"
+        },
+        {
+            "id": 899,
+            "word": "therefore",
+            "word_type": "[副]",
+            "meaning": "因此"
+        },
+        {
+            "id": 900,
+            "word": "thief",
+            "word_type": "[名]",
+            "meaning": "小偷"
+        },
+        {
+            "id": 901,
+            "word": "through",
+            "word_type": "[介]",
+            "meaning": "經過"
+        },
+        {
+            "id": 902,
+            "word": "thumb",
+            "word_type": "[名]",
+            "meaning": "拇指"
+        },
+        {
+            "id": 903,
+            "word": "thunder",
+            "word_type": "[名]",
+            "meaning": "雷"
+        },
+        {
+            "id": 904,
+            "word": "tiny",
+            "word_type": "[形]",
+            "meaning": "微小的"
+        },
+        {
+            "id": 905,
+            "word": "tip",
+            "word_type": "[動][名]",
+            "meaning": "給小費;使傾斜;尖端;小費"
+        },
+        {
+            "id": 906,
+            "word": "title",
+            "word_type": "[名]",
+            "meaning": "標題;頭銜"
+        },
+        {
+            "id": 907,
+            "word": "tofu",
+            "word_type": "[名]",
+            "meaning": "豆腐"
+        },
+        {
+            "id": 908,
+            "word": "toilet",
+            "word_type": "[名]",
+            "meaning": "馬桶"
+        },
+        {
+            "id": 909,
+            "word": "tongue",
+            "word_type": "[名]",
+            "meaning": "舌頭"
+        },
+        {
+            "id": 910,
+            "word": "toothache",
+            "word_type": "[名]",
+            "meaning": "牙痛"
+        },
+        {
+            "id": 911,
+            "word": "toothbrush",
+            "word_type": "[名]",
+            "meaning": "牙刷"
+        },
+        {
+            "id": 912,
+            "word": "topic",
+            "word_type": "[名]",
+            "meaning": "論題;話題"
+        },
+        {
+            "id": 913,
+            "word": "toward",
+            "word_type": "[介]",
+            "meaning": "向;對"
+        },
+        {
+            "id": 914,
+            "word": "tower",
+            "word_type": "[名]",
+            "meaning": "塔"
+        },
+        {
+            "id": 915,
+            "word": "trace",
+            "word_type": "[動][名]",
+            "meaning": "追蹤;描繪;蹤跡"
+        },
+        {
+            "id": 916,
+            "word": "trade",
+            "word_type": "[名]",
+            "meaning": "貿易"
+        },
+        {
+            "id": 917,
+            "word": "tradition",
+            "word_type": "[名]",
+            "meaning": "傳統"
+        },
+        {
+            "id": 918,
+            "word": "traditional",
+            "word_type": "[形]",
+            "meaning": "傳統的"
+        },
+        {
+            "id": 919,
+            "word": "trap",
+            "word_type": "[動][名]",
+            "meaning": "設陷阱;陷阱;圈套"
+        },
+        {
+            "id": 920,
+            "word": "travel",
+            "word_type": "[動][名]",
+            "meaning": "旅行;旅行"
+        },
+        {
+            "id": 921,
+            "word": "treasure",
+            "word_type": "[動][名]",
+            "meaning": "珍愛;財寶"
+        },
+        {
+            "id": 922,
+            "word": "triangle",
+            "word_type": "[名]",
+            "meaning": "三角形"
+        },
+        {
+            "id": 923,
+            "word": "trousers",
+            "word_type": "[名]",
+            "meaning": "長褲"
+        },
+        {
+            "id": 924,
+            "word": "trumpet",
+            "word_type": "[動][名]",
+            "meaning": "吹喇叭;小喇叭"
+        },
+        {
+            "id": 925,
+            "word": "trust",
+            "word_type": "[動]",
+            "meaning": "信任"
+        },
+        {
+            "id": 926,
+            "word": "truth",
+            "word_type": "[名]",
+            "meaning": "事實;真相"
+        },
+        {
+            "id": 927,
+            "word": "tube",
+            "word_type": "[名]",
+            "meaning": "管子"
+        },
+        {
+            "id": 928,
+            "word": "tunnel",
+            "word_type": "[名]",
+            "meaning": "隧道"
+        },
+        {
+            "id": 929,
+            "word": "ugly",
+            "word_type": "[形]",
+            "meaning": "醜的"
+        },
+        {
+            "id": 930,
+            "word": "underline",
+            "word_type": "[動][名]",
+            "meaning": "劃線於...之下;強調;底線"
+        },
+        {
+            "id": 931,
+            "word": "underpass",
+            "word_type": "[名]",
+            "meaning": "地下通道"
+        },
+        {
+            "id": 932,
+            "word": "underwear",
+            "word_type": "[名]",
+            "meaning": "內衣"
+        },
+        {
+            "id": 933,
+            "word": "unique",
+            "word_type": "[形]",
+            "meaning": "獨特的"
+        },
+        {
+            "id": 934,
+            "word": "universe",
+            "word_type": "[名]",
+            "meaning": "宇宙"
+        },
+        {
+            "id": 935,
+            "word": "university",
+            "word_type": "[名]",
+            "meaning": "大學"
+        },
+        {
+            "id": 936,
+            "word": "upper",
+            "word_type": "[形]",
+            "meaning": "較高的"
+        },
+        {
+            "id": 937,
+            "word": "upstairs",
+            "word_type": "[形][副][名]",
+            "meaning": "樓上的;樓上地;樓上"
+        },
+        {
+            "id": 938,
+            "word": "usual",
+            "word_type": "[形]",
+            "meaning": "例常的"
+        },
+        {
+            "id": 939,
+            "word": "Valentine",
+            "word_type": "[名]",
+            "meaning": "情人節"
+        },
+        {
+            "id": 940,
+            "word": "valley",
+            "word_type": "[名]",
+            "meaning": "山谷"
+        },
+        {
+            "id": 941,
+            "word": "valuable",
+            "word_type": "[形]",
+            "meaning": "有價值的"
+        },
+        {
+            "id": 942,
+            "word": "value",
+            "word_type": "[名]",
+            "meaning": "價值"
+        },
+        {
+            "id": 943,
+            "word": "vendor",
+            "word_type": "[名]",
+            "meaning": "小販"
+        },
+        {
+            "id": 944,
+            "word": "victory",
+            "word_type": "[名]",
+            "meaning": "勝利"
+        },
+        {
+            "id": 945,
+            "word": "village",
+            "word_type": "[名]",
+            "meaning": "村落"
+        },
+        {
+            "id": 946,
+            "word": "visitor",
+            "word_type": "[名]",
+            "meaning": "訪客"
+        },
+        {
+            "id": 947,
+            "word": "vocabulary",
+            "word_type": "[名]",
+            "meaning": "字彙"
+        },
+        {
+            "id": 948,
+            "word": "volleyball",
+            "word_type": "[名]",
+            "meaning": "排球"
+        },
+        {
+            "id": 949,
+            "word": "vote",
+            "word_type": "[動]",
+            "meaning": "投票"
+        },
+        {
+            "id": 950,
+            "word": "waist",
+            "word_type": "[名]",
+            "meaning": "腰"
+        },
+        {
+            "id": 951,
+            "word": "Walkman",
+            "word_type": "[名]",
+            "meaning": "隨身聽"
+        },
+        {
+            "id": 952,
+            "word": "war",
+            "word_type": "[名]",
+            "meaning": "戰爭"
+        },
+        {
+            "id": 953,
+            "word": "waste",
+            "word_type": "[動][名]",
+            "meaning": "浪費;浪費"
+        },
+        {
+            "id": 954,
+            "word": "waterfall",
+            "word_type": "[名]",
+            "meaning": "瀑布"
+        },
+        {
+            "id": 955,
+            "word": "weekday",
+            "word_type": "[名]",
+            "meaning": "工作日"
+        },
+        {
+            "id": 956,
+            "word": "weight",
+            "word_type": "[名]",
+            "meaning": "重量"
+        },
+        {
+            "id": 957,
+            "word": "wheel",
+            "word_type": "[名]",
+            "meaning": "輪子"
+        },
+        {
+            "id": 958,
+            "word": "while",
+            "word_type": "[連][名]",
+            "meaning": "當...的時候;一會兒"
+        },
+        {
+            "id": 959,
+            "word": "whole",
+            "word_type": "[形]",
+            "meaning": "完整的"
+        },
+        {
+            "id": 960,
+            "word": "wide",
+            "word_type": "[形]",
+            "meaning": "寬的"
+        },
+        {
+            "id": 961,
+            "word": "wild",
+            "word_type": "[形]",
+            "meaning": "野生的;無法無天的"
+        },
+        {
+            "id": 962,
+            "word": "wing",
+            "word_type": "[名]",
+            "meaning": "翅膀"
+        },
+        {
+            "id": 963,
+            "word": "winner",
+            "word_type": "[名]",
+            "meaning": "贏家"
+        },
+        {
+            "id": 964,
+            "word": "wolf",
+            "word_type": "[名]",
+            "meaning": "狼"
+        },
+        {
+            "id": 965,
+            "word": "women's",
+            "word_type": "[名]",
+            "meaning": "room 女廁所"
+        },
+        {
+            "id": 966,
+            "word": "wood",
+            "word_type": "[名]",
+            "meaning": "木材"
+        },
+        {
+            "id": 967,
+            "word": "worm",
+            "word_type": "[名]",
+            "meaning": "蠕蟲"
+        },
+        {
+            "id": 968,
+            "word": "wound",
+            "word_type": "[動][名]",
+            "meaning": "傷害;傷口"
+        },
+        {
+            "id": 969,
+            "word": "wrist",
+            "word_type": "[名]",
+            "meaning": "手腕"
+        },
+        {
+            "id": 970,
+            "word": "yell",
+            "word_type": "[動]",
+            "meaning": "吼叫"
+        },
+        {
+            "id": 971,
+            "word": "youth",
+            "word_type": "[名]",
+            "meaning": "青少年;青少年時代"
+        }
+    ]
+}
