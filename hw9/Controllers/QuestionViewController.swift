@@ -8,7 +8,10 @@
 import UIKit
 import AVFoundation
 
-class QuestionViewController: UIViewController {
+class QuestionViewController: UIViewController, WrongWordTableViewControllerDelegate {
+    func deleteWrongWord(_ controller: WrongWordTableViewController, didDeleteWordAt index: Int) {
+        wrongWordList.remove(at: index)
+    }
     
     @IBOutlet weak var currentCountLabel: UILabel!
     @IBOutlet weak var wordLabel: UILabel!
@@ -17,6 +20,7 @@ class QuestionViewController: UIViewController {
     @IBOutlet var optionButtons: [UIButton]!
     
     var wordList: [WordItem]?
+    var wrongWordList: [WordItem] = []
     var currentQuestion: QuizQuestion? {
         didSet {
             updateUI()
@@ -100,18 +104,15 @@ class QuestionViewController: UIViewController {
     func generateQuizQuestion(from wordList: [WordItem]) -> QuizQuestion? {
         guard !wordList.isEmpty else { return nil }
         
-        // 隨機選一個單字作為題目
         let selectedWord = wordList.randomElement()!
         let correctMeaning = selectedWord.meaning
         
-        // 從其他單字中隨機選 3 個錯誤答案
         var wrongOptions = [String]()
         let otherMeanings = wordList.filter { $0.id != selectedWord.id }
             .map { $0.meaning }
         
         wrongOptions = Array(otherMeanings.shuffled().prefix(3))
         
-        // 合併並打亂選項
         var options = [correctMeaning] + wrongOptions
         options.shuffle()
         
@@ -124,12 +125,11 @@ class QuestionViewController: UIViewController {
     }
     
     @IBAction func nextButton(_ sender: Any) {
-        isAnswerLocked = false  // 解除答案鎖定
+        isAnswerLocked = false
         currentQuestion = generateQuizQuestion(from: wordList ?? [])
     }
     
     @IBAction func optionButton(_ sender: UIButton) {
-        // 如果答案已鎖定，直接返回
         guard !isAnswerLocked else { return }
         
         let selectedOption = sender.titleLabel?.text
@@ -140,9 +140,15 @@ class QuestionViewController: UIViewController {
             currentQuestion = generateQuizQuestion(from: wordList ?? [])
         } else {
             wrongCount += 1
-            isAnswerLocked = true  // 鎖定答案狀態
+            isAnswerLocked = true
             
-            // 找到正確答案的按鈕並更改其文字
+            if let currentWord = wordList?.first(where: { $0.word == currentQuestion?.word }) {
+                if !wrongWordList.contains(where: { $0.id == currentWord.id }) {
+                    wrongWordList.append(currentWord)
+                    print("add \(currentWord.word)")
+                }
+            }
+            
             for button in optionButtons {
                 if button.titleLabel?.text == correctAnswer {
                     button.setTitle("\(correctAnswer ?? "") ← 正確答案", for: .normal)
@@ -151,7 +157,6 @@ class QuestionViewController: UIViewController {
                 }
             }
             
-            // 將錯誤選項變灰
             for button in optionButtons {
                 if button.titleLabel?.text != correctAnswer {
                     button.tintColor = .systemGray
@@ -163,7 +168,7 @@ class QuestionViewController: UIViewController {
     @IBAction func resetButton(_ sender: Any) {
         rightCount = 0
         wrongCount = 0
-        isAnswerLocked = false  // 解除答案鎖定
+        isAnswerLocked = false
         currentQuestion = generateQuizQuestion(from: wordList ?? [])
     }
     
@@ -172,9 +177,16 @@ class QuestionViewController: UIViewController {
             speak(word)
         }
     }
+    
+    @IBAction func wrongWordListButton(_ sender: Any) {
+        performSegue(withIdentifier: "ShowWrongWords", sender: self)
+    }
+    
+    @IBSegueAction func showWrongWords(_ coder: NSCoder) -> WrongWordTableViewController? {
+        let controller = WrongWordTableViewController(coder: coder)
+        controller?.wrongWordList = wrongWordList
+        controller?.delegate = self
+        return controller
+    }
 }
 
-#Preview {
-    let storyboard = UIStoryboard(name: "Main", bundle: nil)
-    return storyboard.instantiateInitialViewController()!
-}
