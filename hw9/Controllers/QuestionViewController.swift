@@ -23,7 +23,9 @@ class QuestionViewController: UIViewController {
             speak(currentQuestion?.word ?? "")
         }
     }
-
+    
+    private var isAnswerLocked = false
+    
     var rightCount = 0
     var wrongCount = 0
     
@@ -122,11 +124,14 @@ class QuestionViewController: UIViewController {
     }
     
     @IBAction func nextButton(_ sender: Any) {
+        isAnswerLocked = false  // 解除答案鎖定
         currentQuestion = generateQuizQuestion(from: wordList ?? [])
     }
     
-    
     @IBAction func optionButton(_ sender: UIButton) {
+        // 如果答案已鎖定，直接返回
+        guard !isAnswerLocked else { return }
+        
         let selectedOption = sender.titleLabel?.text
         let correctAnswer = currentQuestion?.correctAnswer
         
@@ -135,6 +140,8 @@ class QuestionViewController: UIViewController {
             currentQuestion = generateQuizQuestion(from: wordList ?? [])
         } else {
             wrongCount += 1
+            isAnswerLocked = true  // 鎖定答案狀態
+            
             // 找到正確答案的按鈕並更改其文字
             for button in optionButtons {
                 if button.titleLabel?.text == correctAnswer {
@@ -143,13 +150,20 @@ class QuestionViewController: UIViewController {
                     break
                 }
             }
+            
+            // 將錯誤選項變灰
+            for button in optionButtons {
+                if button.titleLabel?.text != correctAnswer {
+                    button.tintColor = .systemGray
+                }
+            }
         }
     }
-    
     
     @IBAction func resetButton(_ sender: Any) {
         rightCount = 0
         wrongCount = 0
+        isAnswerLocked = false  // 解除答案鎖定
         currentQuestion = generateQuizQuestion(from: wordList ?? [])
     }
     
