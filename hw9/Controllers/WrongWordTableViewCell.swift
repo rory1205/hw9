@@ -8,6 +8,10 @@
 import UIKit
 import AVFoundation
 
+protocol WrongWordTableViewCellDelegate: AnyObject {
+    func didTapReference(word: String)
+}
+
 class WrongWordTableViewCell: UITableViewCell {
     @IBOutlet weak var wordLabel: UILabel!
     @IBOutlet weak var wordTypeLabel: UILabel!
@@ -15,6 +19,8 @@ class WrongWordTableViewCell: UITableViewCell {
     @IBOutlet weak var speakButton: UIButton!
     
     private let synthesizer = AVSpeechSynthesizer()
+    
+    weak var delegate: WrongWordTableViewCellDelegate?
     
     override func awakeFromNib() {
         super.awakeFromNib()
@@ -44,4 +50,10 @@ class WrongWordTableViewCell: UITableViewCell {
             synthesizer.speak(utterance)
         }
     }
+    
+    @IBAction func referenceButtonTapped(_ sender: Any) {
+        guard let word = wordLabel.text else { return }
+        delegate?.didTapReference(word: word)
+    }
+    
 }

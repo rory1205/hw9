@@ -43,6 +43,7 @@ class WrongWordTableViewController: UITableViewController {
             fatalError("Unable to dequeue WrongWordTableViewCell")
         }
         let word = wrongWordList[indexPath.row]
+        cell.delegate = self
         cell.configure(with: word)
         return cell
     }
@@ -68,4 +69,11 @@ class WrongWordTableViewController: UITableViewController {
     }
     
     
+}
+
+extension WrongWordTableViewController: WrongWordTableViewCellDelegate {
+    func didTapReference(word: String) {
+        let controller = UIReferenceLibraryViewController(term: word)
+        present(controller, animated: true, completion: nil)
+    }
 }

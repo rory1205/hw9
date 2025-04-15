@@ -205,8 +205,26 @@
                                             <fontDescription key="fontDescription" style="UICTFontTextStyleBody"/>
                                             <nil key="highlightedColor"/>
                                         </label>
+                                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="edV-3j-YP4">
+                                            <rect key="frame" x="333" y="61" width="40" height="40"/>
+                                            <constraints>
+                                                <constraint firstAttribute="width" constant="40" id="FCn-VW-hiB"/>
+                                                <constraint firstAttribute="height" constant="40" id="kPU-Hc-hFN"/>
+                                            </constraints>
+                                            <state key="normal" title="Button"/>
+                                            <buttonConfiguration key="configuration" style="tinted">
+                                                <backgroundConfiguration key="background">
+                                                    <imageReference key="image" image="magnifyingglass" catalog="system" symbolScale="default"/>
+                                                </backgroundConfiguration>
+                                            </buttonConfiguration>
+                                            <connections>
+                                                <action selector="referenceButtonTapped:" destination="pYt-C4-fRd" eventType="touchUpInside" id="vX6-yY-NVc"/>
+                                            </connections>
+                                        </button>
                                     </subviews>
                                     <constraints>
+                                        <constraint firstAttribute="trailing" secondItem="edV-3j-YP4" secondAttribute="trailing" constant="20" symbolic="YES" id="07M-w6-U1f"/>
+                                        <constraint firstItem="edV-3j-YP4" firstAttribute="top" secondItem="tia-77-UV5" secondAttribute="bottom" constant="10" id="ITK-md-bb2"/>
                                         <constraint firstAttribute="bottom" secondItem="6Sl-pq-56O" secondAttribute="bottom" constant="11" id="abc-12-def"/>
                                         <constraint firstAttribute="trailing" secondItem="tia-77-UV5" secondAttribute="trailing" constant="20" id="abc-34-def"/>
                                         <constraint firstItem="2xy-zM-g5u" firstAttribute="top" secondItem="ZV8-ob-AGg" secondAttribute="top" constant="11" id="def-34-ghi"/>
@@ -257,6 +275,7 @@
     </scenes>
     <resources>
         <image name="background" width="1024" height="1536"/>
+        <image name="magnifyingglass" catalog="system" width="128" height="117"/>
         <image name="speaker.wave.3" catalog="system" width="128" height="84"/>
         <namedColor name="AccentColor">
             <color red="0.0" green="0.46000000000000002" blue="0.89000000000000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
@@ -265,10 +284,10 @@
             <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
         </systemColor>
         <systemColor name="systemPinkColor">
-            <color red="1" green="0.1764705882" blue="0.33333333329999998" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <color red="1" green="0.17647058823529413" blue="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
         </systemColor>
         <systemColor name="systemPurpleColor">
-            <color red="0.68627450980000004" green="0.32156862749999998" blue="0.87058823529999996" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <color red="0.68627450980392157" green="0.32156862745098042" blue="0.87058823529411766" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
         </systemColor>
     </resources>
 </document>
